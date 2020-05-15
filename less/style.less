@@ -1,0 +1,55 @@
+// colors
+
+@primary: #000;
+@secondary: #555;
+@accent: #1b03a3; // neon blue
+
+// text variables
+
+@link-color: #1b03a3; // neon blue
+@link-color-hover:  darken(@link-color, 10%);
+
+// images
+
+@images: "../images";
+
+
+// general
+
+
+// Usage
+body {
+    color: #444;
+    background: url("@{images}/logo.png");
+}
+
+a,
+.link {
+    color: @link-color;
+}
+a:hover {
+    color: @link-color-hover;
+}
+
+// buttons
+
+#button (@width: 150px){
+    background-color: @accent;
+    border-radius: 6px;
+    width: @width;
+}
+
+#sm-button {
+    height: 80px;
+    #button;
+}
+
+#md-button {
+    height: 80px;
+    #button(180px);
+}
+
+#lg-button {
+    height: 80px;
+    #button(240px);
+}

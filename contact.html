@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <title>Basic Bootstrap Template - Contact Form</title>
+  <!-- Required Meta Tags -->
+  <meta charset="utf-8">
+  <meta name="description" content="" />
+  <meta name="keywords" content="keyword 1, keyword 2, keyword 3" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="favicon.ico">
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.4/css/mdb.min.css" rel="stylesheet">
+  <!-- Normalize CSS -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <!-- Fontawesome 5 Pro -->
+  <link href="fontawesome/css/all.css" rel="stylesheet">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+  <!-- JQuery -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+</head>
+
+<body >
+  <!-- Start  Loading Mask-->
+  <div id="mask">
+
+  </div>
+  <!-- End Loading Mask-->
+
+  <!-- Header -->
+  <header class="container-fluid" >
+    <!-- Scroll to top button -->
+    <a href="javascript:" id="return-to-top"><i class="fas fa-chevron-up"></i></a>
+    <!-- Start Navbar-->
+    <nav class=""></nav>
+    <!-- End Navbar-->
+  </header>
+  <!-- End Header -->
+
+
+  <section class="">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 text-center animated slideInUp faster">
+          <button class="btn-primary"></button>
+        </div>
+        <div class="col-md-4 text-center animated slideInUp fast">
+          <i class="fad fa-browser"></i>
+        </div>
+        <div class="col-md-4 text-center animated slideInUp slow">One of three columns</div>
+      </div>
+    </div>
+  </section>
+
+<!-- Bootstrap Material Design Contact Form  -->
+
+<section class="mb-4">
+   <!--Section heading-->
+   <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>
+   <!--Section description-->
+   <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact us directly. Our team will come back to you within
+      a matter of hours to help you.
+   </p>
+   <div class="row">
+      <!--Grid column-->
+      <div class="col-md-9 mb-md-0 mb-5">
+         <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+            <!--Grid row-->
+            <div class="row">
+               <!--Grid column-->
+               <div class="col-md-6">
+                  <div class="md-form mb-0">
+                     <input type="text" id="name" name="name" class="form-control">
+                     <label for="name" class="">Your name</label>
+                  </div>
+               </div>
+               <!--Grid column-->
+               <!--Grid column-->
+               <div class="col-md-6">
+                  <div class="md-form mb-0">
+                     <input type="text" id="email" name="email" class="form-control">
+                     <label for="email" class="">Your email</label>
+                  </div>
+               </div>
+               <!--Grid column-->
+            </div>
+            <!--Grid row-->
+            <!--Grid row-->
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="md-form mb-0">
+                     <input type="text" id="subject" name="subject" class="form-control">
+                     <label for="subject" class="">Subject</label>
+                  </div>
+               </div>
+            </div>
+            <!--Grid row-->
+            <!--Grid row-->
+            <div class="row">
+               <!--Grid column-->
+               <div class="col-md-12">
+                  <div class="md-form">
+                     <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                     <label for="message">Your message</label>
+                  </div>
+               </div>
+            </div>
+            <!--Grid row-->
+         </form>
+         <div class="text-center text-md-left">
+            <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+         </div>
+         <div class="status"></div>
+      </div>
+      <!--Grid column-->
+      <!--Grid column-->
+      <div class="col-md-3 text-center">
+         <ul class="list-unstyled mb-0">
+            <li>
+               <i class="fas fa-map-marker-alt fa-2x"></i>
+               <p>San Francisco, CA 94126, USA</p>
+            </li>
+            <li>
+               <i class="fas fa-phone mt-4 fa-2x"></i>
+               <p>+ 01 234 567 89</p>
+            </li>
+            <li>
+               <i class="fas fa-envelope mt-4 fa-2x"></i>
+               <p>contact@mdbootstrap.com</p>
+            </li>
+         </ul>
+      </div>
+      <!--Grid column-->
+   </div>
+</section>
+<!-- END Bootstrap Material Design Contact Form  -->
+
+  <!-- Footer -->
+  <footer class="">
+
+  </footer>
+  <!-- End Footer -->
+
+  <script>
+    // ===== Scroll to Top ====
+    $(window).scroll(function() {
+      if ($(this).scrollTop() >= 50) { // If page is scrolled more than 50px
+        $('#return-to-top').fadeIn(200); // Fade in the arrow
+      } else {
+        $('#return-to-top').fadeOut(200); // Else fade out the arrow
+      }
+    });
+    $('#return-to-top').click(function() { // When arrow is clicked
+      $('body,html').animate({
+        scrollTop: 0 // Scroll to top of body
+      }, 500);
+    });
+  </script>
+
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.comajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <!-- Bootstrap Tooltips -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.comajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.comajax/libs/mdbootstrap/4.7.4/js/mdb.min.js"></script>
+  <!-- Modernizr -->
+  <script src="js/vendor/modernizr-3.7.1.min.js"></script>
+  <!-- Plugins JS file -->
+  <script src="js/plugins.js"></script>
+  <!-- JS file -->
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
