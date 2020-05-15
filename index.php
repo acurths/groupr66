@@ -16,7 +16,6 @@ require_once('includes/config.php');
 // set page vars
 $page_title = 'Group R66';
 
-
 // pull in head
 require_once('includes/blocks/head.php');
 // pull in navigation
