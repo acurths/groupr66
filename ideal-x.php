@@ -22,7 +22,7 @@ require_once('includes/blocks/head.php');
 require_once('includes/blocks/navigation.php');
 
 ?>
-
+<div class="idealx">
   <!-- Start Homepage Hero -->
   <section class="hero">
     <div class="idealx-hero">
@@ -52,8 +52,8 @@ require_once('includes/blocks/navigation.php');
       <div class="hero idealx-hero-alt ">
     <div class="row">
       <div class="col-md-12">
-        <h3>Revenue based services that optimize customer experiences.</h3>
-        <p class="hero-text">GR66 has been implementing technology solutions for marketing and sales since the inception of, “digital marketing”</p><br><br>
+        <h3>Implementing <br>technology solutions for marketing and sales</h3>
+        <p class="hero-text">Our team of trusted guides will maneuver around the turbulence of the constantly evolving digital highway to help you reach your destination.</p><br><br>
         <i class="fal fa-long-arrow-down"></i>
       </div>
       </div>
@@ -68,31 +68,37 @@ require_once('includes/blocks/navigation.php');
 
 
               <h2>
-              Customer Solution Optimization <span>(CSO)</span>
+              Customer Revenue Optimization <span style="color: #17A132">(CRO)</span>
             </h2>
               <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
 </div>
         </div>
 
-        <div class="col-md-4 col-left-img">
+        <div class="col-md-4">
           <div class="three-col">
-              <i class="fal fa-atom-alt"></i>
-          <h4>Disruption</h4>
-          <p>Increased pressure has created a disruptive landscape.</p>
+            <i class="fal fa-tachometer-alt-fast"></i>
+
+          <h4>Accelerate Acquisition</h4>
+          <p>Drive effective digital business transformation with streamlined acquisition of prospects.</p>
+          <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
           </div>
         </div>
-        <div class="col-md-4 col-center-img">
+        <div class="col-md-4">
           <div class="three-col">
               <i class="fal fa-chart-line"></i>
-          <h4>Trusted Advisor</h4>
-          <p>Partner with industry veterans with decades of experience.</p>
+
+          <h4>Maximize Retention</h4>
+          <p>A customer-led strategy fused with high-impactful processes provides a seamless execution for maximum retention.</p>
+            <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
           </div>
         </div>
-        <div class="col-md-4 col-right-img">
+        <div class="col-md-4">
           <div class="three-col ">
               <i class="fal fa-seedling"></i>
+
           <h4>Grow Your Business</h4>
-          <p>Results are the foundation of any successful digital deployment.</p>
+          <p>Dodge organizational friction with a new operating picture that is aligned around the drivers of revenue.</p>
+            <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
           </div>
         </div>
       </div>
@@ -103,3 +109,6 @@ require_once('includes/blocks/navigation.php');
 <?php require_once ('includes/blocks/contact-banner.php'); ?>
 
 <?php require_once ('includes/blocks/footer.php'); ?>
+
+
+</div>

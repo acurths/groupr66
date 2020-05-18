@@ -428,10 +428,16 @@ p.hero-text {
 .three-col i, .three-col h4  {
 color: #2478B5;
 }
-.three-col:hover i, .three-col:hover h4, .three-col:hover p  {
+
+.three-col p i {
+    font-size: 16px;
+    margin-bottom: 0;
+		margin-left: 8px;
+}
+/* .three-col:hover i, .three-col:hover h4, .three-col:hover p  {
 color: #fff;
 
-}
+} */
 .three-col h4 {
 font-size: 22px;
 }
@@ -612,8 +618,10 @@ display: inline-block;
 	letter-spacing: 0.04em !important;
 
 }
-.hero p, .hero a , .hero i{
+.idealx .hero p, .idealx .hero a , .idealx .hero i{
 	color: #1d1d1d !important;
+	max-width: 760px;
+
 }
 .idealx-hero {
 	height: 880px;
@@ -624,7 +632,7 @@ display: inline-block;
 	background-position: 50% 50%;
 	background-color: #fff ;
 	object-fit: cover;
-	background-attachment: fixed;
+	/* background-attachment: fixed; */
 	padding: 13% 0 0 0;
 	overflow: hidden;
 
@@ -645,6 +653,22 @@ display: inline-block;
 }
 .hero .idealx-hero-alt p, .hero .idealx-hero-alt i {
 	color: #fff !important;
+}
+.idealx .three-col p i {
+font-size: 14px;
+}
+.idealx .three-col i, .idealx .three-col h4, .idealx .three-col a  {
+color: #17A132;
+}
+.idealx .three-col a  {
+font-size: 14px;
+font-weight: 600;
+}
+.idealx .bottom-banner {
+    width: 100%;
+    background-color: #0E7925;
+    padding: 140px 0;
+    overflow: hidden;
 }
 /* ------ Image Backgrounds Text Overlay ------ */
 

@@ -41,7 +41,6 @@ require_once('includes/blocks/navigation.php');
               to avoid potholes on the constantly evolving digital highway.
               <br><br>
               <a href="#">Refeul your succes with data-driven action <i class="fas fa-long-arrow-right"></i></a></p>
-
           </div>
         </div>
 
@@ -52,7 +51,6 @@ require_once('includes/blocks/navigation.php');
           <p class="hero-text">GR66 has been implementing technology solutions for marketing and sales since the inception of, “digital marketing”</p><br><br>
           <i class="fal fa-long-arrow-down"></i>
         </div>
-
       </div>
       <!-- <i class="fal fa-chevron-down"></i> -->
     </div>

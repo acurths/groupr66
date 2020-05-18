@@ -97,6 +97,10 @@ margin-right: 30px;
   border-bottom: 1px solid #65A7BD;
   padding-bottom: 9px;
 }
+.navbar .menu li.active-green {
+  border-bottom: 1px solid #17A132;
+  padding-bottom: 9px;
+}
 
 .navbar .logo {
   display: block;

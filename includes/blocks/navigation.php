@@ -23,17 +23,16 @@
     <!-- Start Navbar-->
     <div class="nav-row light">
       <nav class="navbar">
-        <a href="index.html" class="logo"><img src="img/logo.svg" alt=""></a>
+        <a href="index.php" class="logo"><img src="img/logo.svg" alt=""></a>
+
         <input class="menu-btn" type="checkbox" id="menu-btn" />
         <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
         <div class="menu">
-
           <ul class="">
-            <li><a href="consulting.html">Consulting</a></li>
-            <li class="active"><a href="ideal-x.html">IDEAL X</a></li>
-            <li><a href="insights.html">Insights</a></li>
-            <li><a href="connect.html">Connect</a></li>
-
+            <li><a href="consulting.php">Consulting</a></li>
+            <li class="active-green"><a href="ideal-x.php">IDEAL X</a></li>
+            <li><a href="insights.php">Insights</a></li>
+            <li><a href="connect.php">Connect</a></li>
             <li><i class="fal fa-envelope"></i></li>
           </ul>
         </div>
