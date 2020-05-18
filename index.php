@@ -28,8 +28,7 @@ require_once('includes/blocks/navigation.php');
     <div class="homepage-hero">
       <div class="hero-box">
         <div class="hero-intro-text text-center wow fadeIn" data-wow-delay="0.4s">
-          <div class="col-md-12 padding-0
-          ">
+          <div class="col-md-12 padding-0">
             <h1>Your partner along the digital highway</h1>
           </div>
         </div>

@@ -31,16 +31,29 @@
         </ul>
       </div>
 
-      <div class="col-md-4">
+      <div class="col-md-4  padding-0">
 
         <h5>Social<span></span></h5>
-
+        <div class="row padding-0">
+<div class="col text-left">
+  <a href=""><i class="fab fa-linkedin-in "></i></a>
+</div>
+<div class="col text-center">
+  <a href=""><i class="fab fa-facebook-f "></i></a>
+</div>
+<div class="col text-right">
+<a href=""><i class="fab fa-twitter "></i></a>
+</div>
+<!-- <div class="col">
+  <a href=""><i class="fab fa-linkedin-in "></i></a>
+</div> -->
+</div>
         <!-- <h6>SOCIAL</h6> -->
-        <ul class="social">
+        <!-- <ul class="social">
           <li><a href=""><i class="fab fa-linkedin-in "></i></a></li>
           <li><a href=""><i class="fab fa-facebook-f "></i></a></li>
           <li><a href=""><i class="fab fa-twitter "></i></a></li>
-        </ul>
+        </ul> -->
         <!-- <p>Copyright @ 2019 Group R66. Registered trademarks in the united states and reserve the right to hack into your systems whenever, wherever. Privacy Policy</p> -->
       </div>
     </div>

@@ -19,7 +19,6 @@ $defaultOgData = array(
     'image-width'   => 206,
     'image-height'  => 260,
 );
-
 ?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -42,6 +41,7 @@ $defaultOgData = array(
   <!-- Normalize CSS -->
   <link rel="stylesheet" href="css/normalize.css">
   <!-- Main Stylesheet -->
+  <!-- <link rel="stylesheet" type="text/css" href="css/style_main.css"> -->
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <!-- Navbar Stylesheet -->
   <link rel="stylesheet" type="text/css" href="css/navbar.css">
@@ -49,6 +49,7 @@ $defaultOgData = array(
   <link href="fontawesome/css/all.css" rel="stylesheet">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,600,600i,700,700i,800,800i,900,900i|Roboto&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,400;1,500;1,700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
   <!-- JQuery -->

@@ -29,10 +29,10 @@
         <div class="menu">
 
           <ul class="">
-            <li><a href="who-we-are.html">Consulting</a></li>
-            <li class="active"><a href="procedures.html">IDEAL X</a></li>
-            <li><a href="emergency-repairs.html">Insights</a></li>
-            <li><a href="emergency-repairs.html">Connect</a></li>
+            <li><a href="consulting.html">Consulting</a></li>
+            <li class="ideal-x"><a href="procedures.html">IDEAL X</a></li>
+            <li><a href="insights.html">Insights</a></li>
+            <li><a href="connect.html">Connect</a></li>
 
             <li><i class="fal fa-envelope"></i></li>
           </ul>
