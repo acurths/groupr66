@@ -23,8 +23,8 @@
     <!-- Start Navbar-->
     <div class="nav-row light">
       <nav class="navbar">
-        <a href="index.php" class="logo"><img src="img/logo.svg" alt=""></a>
-
+              <div class="navbar-inner">
+        <a href="index.php" class="logo"><img src="img/logowide.png" alt=""></a>
         <input class="menu-btn" type="checkbox" id="menu-btn" />
         <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
         <div class="menu">
@@ -33,9 +33,10 @@
             <li class="active-green"><a href="ideal-x.php">IDEAL X</a></li>
             <li><a href="insights.php">Insights</a></li>
             <li><a href="connect.php">Connect</a></li>
-            <li><i class="fal fa-envelope"></i></li>
+            <a href="mailto:info@groupr66.com"><li><i class="fal fa-envelope"></i></li></a>
           </ul>
         </div>
+            </div>
       </nav>
     </div>
 

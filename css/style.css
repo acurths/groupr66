@@ -367,8 +367,9 @@ i {}
 }
 
 .r66-white-bg p {
-	max-width: 850px;
-	margin: 0 auto;
+    max-width: 930px;
+    margin: 0 auto;
+    font-size: 18px;
 }
 
 .three-col {
@@ -541,7 +542,71 @@ button.primary:hover {
 	overflow: hidden;
 	min-height: 1780px;
 }
+.intro-right {
+	height: 100%;
+	width: 100%;
+	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/road.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-color: #fff ;
+	object-fit: cover;
+	/* background-attachment: fixed; */
+	padding: 48px;
+	overflow: hidden;
+min-height: 480px;
+color: #fff;
+position: relative;
+}
+.intro-right p{
+position: absolute;
+bottom: 48px;
+color: #fff;
+max-width: 80%;
 
+}
+.intro-left {
+
+height: 100%;
+width: 100%;
+
+background-size: cover;
+background-repeat: no-repeat;
+background-position: 50% 90%;
+background-color: #fff ;
+object-fit: cover;
+/* background-attachment: fixed; */
+padding: 48px 80px 48px 48px;
+overflow: hidden;
+min-height: 480px;
+color: #1d1d1d
+position: relative;
+max-height: 480px;
+
+}
+.intro-left i {
+text-align: center;
+font-size: 600px;
+opacity: .3;
+color: #2A73B8;
+
+}
+.intro-left h2 span {
+	content: "";
+	flex: 1 1 auto;
+	border-top: 1px solid #1d1d1d;
+	margin-left: 16px;
+	padding-top: 48px;
+
+}
+.intro-left h2 {
+max-width: 1440px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+
+
+}
 .hero-right-text a {
 	color: #fff;
 	font-weight: 700;
@@ -599,6 +664,55 @@ display: inline-block;
 	margin-left: 8px;
 }
 
+/* Consulting */
+
+.intro {
+	width: 100%;
+	background-color: #fff;
+	padding: 240px 0;
+	overflow: hidden;
+}
+.intro h2 {
+line-height: 130%;
+	color: #1d1d1d;
+	text-transform: none;
+
+
+}
+
+.intro i {
+	font-size: 32px;
+	color: #1d1d1d;
+}
+.intro a h6:first-child {
+padding-right: 80px;
+}
+.intro a h6 {
+font-size: 16px;
+display: inline-block;
+}
+
+.intro h4 {
+	text-transform: none;
+	color: #1d1d1d;
+	margin-bottom: 28px;
+}
+
+.intro hr {
+	margin-top: 8px;
+}
+
+.intro h6 {
+	color: #1d1d1d;
+	font-size: 14px;
+	font-weight: 700;
+	margin-top: 24px;
+}
+
+.intro h6 i {
+	margin-left: 8px;
+}
+
 
 /* ------ Ideal X ------ */
 
@@ -624,7 +738,7 @@ display: inline-block;
 
 }
 .idealx-hero {
-	height: 880px;
+	height: 100vh;
 	width: 100%;
 	background-image: url(../img/idealx.jpg);
 	background-size: cover;
@@ -633,7 +747,7 @@ display: inline-block;
 	background-color: #fff ;
 	object-fit: cover;
 	/* background-attachment: fixed; */
-	padding: 13% 0 0 0;
+	padding: 15% 0 0 0;
 	overflow: hidden;
 
 }
@@ -654,21 +768,26 @@ display: inline-block;
 .hero .idealx-hero-alt p, .hero .idealx-hero-alt i {
 	color: #fff !important;
 }
+
 .idealx .three-col p i {
 font-size: 14px;
 }
-.idealx .three-col i, .idealx .three-col h4, .idealx .three-col a  {
+.idealx .three-col h4{
 color: #17A132;
 }
 .idealx .three-col a  {
 font-size: 14px;
 font-weight: 600;
+color: #1d1d1d;
 }
 .idealx .bottom-banner {
     width: 100%;
     background-color: #0E7925;
     padding: 140px 0;
     overflow: hidden;
+}
+.idealx .three-col i {
+color: #1d1d1d;
 }
 /* ------ Image Backgrounds Text Overlay ------ */
 
