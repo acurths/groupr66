@@ -19,9 +19,9 @@
   <!-- Header -->
   <header>
     <!-- Scroll to top button -->
-    <a href="javascript:" id="return-to-top"><i class="fas fa-chevron-up"></i></a>
+    <a href="javascript:" id="return-to-top"><i class="fal fa-long-arrow-up"></i></a>
     <!-- Start Navbar-->
-    <div class="nav-row">
+    <div class="nav-row light">
       <nav class="navbar">
         <a href="index.html" class="logo"><img src="img/logo.svg" alt=""></a>
         <input class="menu-btn" type="checkbox" id="menu-btn" />
@@ -30,7 +30,7 @@
 
           <ul class="">
             <li><a href="consulting.html">Consulting</a></li>
-            <li class="ideal-x"><a href="procedures.html">IDEAL X</a></li>
+            <li class="active"><a href="ideal-x.html">IDEAL X</a></li>
             <li><a href="insights.html">Insights</a></li>
             <li><a href="connect.html">Connect</a></li>
 

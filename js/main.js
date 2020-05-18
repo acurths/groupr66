@@ -53,3 +53,7 @@ $('#return-to-top').click(function() { // When arrow is clicked
 // $("#myid").addClass("highlight");
 
 // ===== Add Class ====
+
+
+
+});
