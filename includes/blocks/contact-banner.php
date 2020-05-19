@@ -16,10 +16,10 @@
 
   <div class="bottom-banner">
     <div class="row">
-      <div class="col-md-1">
+      <div class="col-md-2">
         <i class="fal fa-paper-plane"></i>
       </div>
-      <div class="col-md-5">
+      <div class="col-md-4">
         <h4>Contact Us</h4>
       </div>
       <div class="col-md-6 right">

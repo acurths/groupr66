@@ -16,7 +16,7 @@
 <footer class="footer">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-4 text-left">
+      <div class="col-md-4 text-left padding-left-0">
         <!-- <img src="img/logo-dark.jpg" alt=""> -->
         <img src="img/logo.svg" alt="">
       </div>

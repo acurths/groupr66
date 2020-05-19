@@ -19,7 +19,7 @@
   <!-- Header -->
   <header>
     <!-- Scroll to top button -->
-    <a href="javascript:" id="return-to-top"><i class="fal fa-long-arrow-up"></i></a>
+    <a href="javascript:" id="return-to-top"><i class="fal fa-chevron-up"></i></a>
     <!-- Start Navbar-->
     <div class="nav-row light">
       <nav class="navbar">

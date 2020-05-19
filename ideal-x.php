@@ -29,7 +29,7 @@ require_once('includes/blocks/navigation.php');
       <div class="hero-box">
         <div class="hero-intro-text text-center wow fadeIn" data-wow-delay="0.4s">
           <div class="col-md-12 padding-0">
-            <h1>Outpace digital disruption and stay competitive</h1>
+            <h1>Outpace digital disruption and <span style="color: #17A132;">stay competitive</span></h1>
           </div>
         </div>
         <div class="row row-wide hp-hero-large padding-0">
@@ -37,7 +37,7 @@ require_once('includes/blocks/navigation.php');
 
           </div>
           <div class="col-md-6 padding-0 hero-right-text">
-            <p style="">In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. IdealX is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model.
+            <p style="">In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. <b>IDEALX </b>is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model.
               <br><br>
               <a href="#">Optimize customer equity with data-driven action<i class="fas fa-long-arrow-right"></i></a></p>
 
