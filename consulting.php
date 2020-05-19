@@ -164,7 +164,7 @@ require_once('includes/blocks/head.php');
           </a>
       </div>
       <div class="col-md-5 info-block">
-          <a href="#"> <h4>IDEALX<i class="fas fa-long-arrow-right"></i></h4>
+          <a href="ideal-x.php"> <h4>IDEALX<i class="fas fa-long-arrow-right"></i></h4>
         <p>Outpace digital disruption and stay competitive in the rapidly evolving transformative age. </p>
         <img src="img/road-1.jpg" alt="">
           </a>

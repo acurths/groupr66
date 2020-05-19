@@ -55,7 +55,7 @@ require_once('includes/blocks/head.php');
   <section class="hero">
     <div class="idealx-hero">
       <div class="hero-box">
-        <div class="hero-intro-text text-center wow fadeIn" data-wow-delay="0.4s">
+        <div class="hero-intro-text text-center wow fadeIn" data-wow-delay="0s">
           <div class="col-md-12 padding-0">
             <h1>Outpace digital disruption and <span style="color: #17A132;">stay competitive</span></h1>
           </div>
@@ -132,9 +132,48 @@ require_once('includes/blocks/head.php');
       </div>
     </div>
   </section>
+  <section class="half-color-bg">
+    <div class="container-fluid  white-bg">
+      <div class="row ">
+        <!-- <div class="col-md-4 padding-0 grey-bg">
+
+        </div> -->
+        <!-- <div class="col-md-3 text-left grey-bg">
+        </div> -->
+        <div class="col-md-7 text-left" >
+          <div class="intro-left-alt idealx">
+
+              <h2>Making Digital<span></span>
+            </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare</p>
+            <!-- <i class="fal fa-road"></i> -->
 
 
-<?php require_once ('includes/blocks/contact-banner.php'); ?>
+</div>
+        </div>
+
+        <div class="col-md-5 intro-right-alt idealx padding-0 ">
+
+  <p>Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway.
+<br><br>
+<a href="insights.php">View our latest insights  <i class="fas fa-long-arrow-right"></i></a>
+  </p>
+
+
+
+        </div>
+
+
+      </div>
+    </div>
+    <div class="hero idealx-bottom-bg ">
+
+
+  </div>
+  </section>
+
+
+<!--  -->
 
 <?php require_once ('includes/blocks/footer.php'); ?>
 

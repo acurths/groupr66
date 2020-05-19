@@ -101,6 +101,10 @@ section {}
 .grey-bg {
 	background-color: #fafafa;
 }
+.white-bg {
+	background-color: #fff;
+}
+
 
 .container {}
 
@@ -604,6 +608,30 @@ button.primary:hover {
     position: absolute;
     right: 0;
 }
+.intro-right-alt.idealx {
+
+    width: 100%;
+    background-color: #0E7925;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    object-fit: cover;
+    /* background-attachment: fixed; */
+    padding: 160px 80px 20px 90px;
+    overflow: hidden;
+    /* min-height: 480px; */
+    color: #fff;
+    position: absolute;
+    right: 0;
+}
+.intro-right-alt.idealx i {
+margin-left: 8px;
+  font-size: 18px;
+
+}
+.intro-right-alt.idealx a {
+color: #fff;
+}
 
 .intro-right p {
 	position: absolute;
@@ -639,7 +667,6 @@ font-size: 36px;
 }
 
 .intro-left-alt {
-
 	width: 100%;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -649,9 +676,17 @@ font-size: 36px;
 	/* background-attachment: fixed; */
 	padding: 80px 80px 80px 0;
 	overflow: hidden;
-
-
-
+}
+.intro-left-alt.idealx {
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 90%;
+	background-color: #fff;
+	object-fit: cover;
+	/* background-attachment: fixed; */
+	padding: 80px 80px 80px 0;
+	overflow: hidden;
 }
 .intro-left-alt p{
 color: #1d1d1d !important;
@@ -667,7 +702,7 @@ margin-bottom: 28px;
 	color: #2A73B8;
 }
 
-.intro-left h2 span, .intro-left-alt h2 span {
+.intro-left h2 span {
 	content: "";
 	flex: 1 1 auto;
 	border-top: 2px solid #ddd;
@@ -973,10 +1008,10 @@ opacity: .9;
 .idealx-hero-alt {
 	height: 800px;
 	width: 100%;
-	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.1), rgba(29, 29, 29, 0.1)), url(../img/idealx-alt.jpg);
+	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/forest.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 50% 50%;
+	background-position: 50% 70%;
 	background-color: #fff;
 	object-fit: cover;
 	background-attachment: fixed;
@@ -990,7 +1025,7 @@ opacity: .9;
 	color: #fff !important;
 }
 
-.idealx .three-col p i {
+.three-col p i {
 	font-size: 14px;
 }
 
@@ -998,7 +1033,7 @@ opacity: .9;
 	color: #17A132;
 }
 
-.idealx .three-col a {
+ .three-col a {
 	font-size: 14px;
 	font-weight: 600;
 	color: #1d1d1d;
@@ -1011,7 +1046,7 @@ opacity: .9;
 	overflow: hidden;
 }
 
-.idealx .three-col i {
+.three-col i {
 	color: #1d1d1d;
 }
 
@@ -1038,6 +1073,20 @@ color: #fff;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
+	background-color: #fff;
+	object-fit: cover;
+	/* background-attachment: fixed; */
+	padding: 15% 0 0 0;
+	overflow: hidden;
+}
+
+.idealx-bottom-bg  {
+	height: 320px;
+	width: 100%;
+	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/6.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 30%;
 	background-color: #fff;
 	object-fit: cover;
 	/* background-attachment: fixed; */

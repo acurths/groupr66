@@ -96,25 +96,28 @@ require_once('includes/blocks/head.php');
 </div>
         </div>
 
-        <div class="col-md-4 col-left-img">
+        <div class="col-md-4">
           <div class="three-col">
               <i class="fal fa-atom-alt"></i>
           <h4>Disruption</h4>
           <p>Increased pressure has created a disruptive landscape.</p>
+            <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
           </div>
         </div>
-        <div class="col-md-4 col-center-img">
+        <div class="col-md-4">
           <div class="three-col">
               <i class="fal fa-chart-line"></i>
           <h4>Trusted Advisor</h4>
           <p>Partner with industry veterans with decades of experience.</p>
+            <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
           </div>
         </div>
-        <div class="col-md-4 col-right-img">
+        <div class="col-md-4">
           <div class="three-col ">
               <i class="fal fa-seedling"></i>
           <h4>Grow Your Business</h4>
           <p>Results are the foundation of any successful digital deployment.</p>
+            <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
           </div>
         </div>
       </div>
