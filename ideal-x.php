@@ -19,9 +19,37 @@ $page_title = 'Group R66';
 // pull in head
 require_once('includes/blocks/head.php');
 // pull in navigation
-require_once('includes/blocks/navigation.php');
+// require_once('includes/blocks/navigation.php');
 
 ?>
+<body>
+  <!-- Start  Loading Mask-->
+  <div id="mask">
+  </div>
+  <!-- End Loading Mask-->
+  <!-- Header -->
+  <header>
+    <!-- Scroll to top button -->
+    <a href="javascript:" id="return-to-top"><i class="fal fa-chevron-up"></i></a>
+    <!-- Start Navbar-->
+    <div class="header">
+      <div class="header-inner">
+        <a href="index.php" class="logo"><img src="img/logowide.png" alt=""></a>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+      <ul class="menu">
+        <li><a href="consulting.php">Consulting</a></li>
+        <li class="active-green"><a href="ideal-x.php">IDEAL X</a></li>
+        <li><a href="insights.php">Insights</a></li>
+        <li><a href="connect.php">Connect</a></li>
+        <li><a href="mailto:info@groupr66.com"><i class="fal fa-envelope"></i></a></li>
+      </ul>
+    </div>
+    </div>
+
+    <!-- End Navbar-->
+  </header>
+  <!-- End Header -->
 <div class="idealx">
   <!-- Start Homepage Hero -->
   <section class="hero">

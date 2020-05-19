@@ -24,7 +24,7 @@
     </div>
     <div class="col-md-6 right">
       <p>Check out our latest insights for an up to date look at GR66 and other industry news.</p>
-        <a href="">
+        <a href="insights.php">
           <h6>Go to our blog page<i class="fas fa-long-arrow-right"></i></h6>
         </a>
 
