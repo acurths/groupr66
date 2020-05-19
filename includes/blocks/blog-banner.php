@@ -27,7 +27,6 @@
         <a href="insights.php">
           <h6>Go to our blog page<i class="fas fa-long-arrow-right"></i></h6>
         </a>
-
     </div>
   </div>
 </div>

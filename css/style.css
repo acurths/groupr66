@@ -682,7 +682,9 @@ margin-bottom: 28px;
 	display: flex;
 	margin-left: 10%;
 }
-
+.hero-right-text p{
+	max-width: 82%;
+}
 .hero-right-text a {
 	color: #fff;
 	font-weight: 700;
@@ -818,7 +820,7 @@ max-width: 80%;
 
 	width: 100%;
 background-color: #5093C4;
-padding: 48px 0;
+padding: 28px 0;
 overflow: hidden;
 }
 .color-banner-cta i{

@@ -11,7 +11,7 @@
  */
 
 // plug config
-require_once('includes/config.php');
+// require_once('includes/config.php');
 
 // set page vars
 $page_title = 'Group R66';
