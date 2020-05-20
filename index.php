@@ -33,7 +33,7 @@
       <!-- Start Navbar-->
       <div class="header light">
          <div class="header-inner">
-            <a href="index.php" class="logo"><img src="img/logoclear.png" alt=""></a>
+            <a href="index.php" class="logo"><img src="img/logowide.png" alt=""></a>
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
@@ -41,8 +41,14 @@
                <li><a href="ideal-x.php">IDEAL X</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
-               <li><a href="mailto:info@groupr66.com"><i class="fal fa-envelope"></i></a></li>
+               <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
+               <div class="social-menu">
+                  <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
+                   <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
+                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
+               </div>
             </ul>
+
          </div>
       </div>
       <!-- End Navbar-->

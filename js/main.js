@@ -7,6 +7,12 @@ $(document).ready(function(){
 
 new WOW().init();
 
+if ($('.wow').hasClass('animated')) {
+            $(this).removeClass('animated');
+            $(this).removeAttr('style');
+            new WOW().init();
+}
+
 
 
 // ===== Scroll to Top ====

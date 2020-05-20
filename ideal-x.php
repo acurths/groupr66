@@ -41,8 +41,14 @@
                <li class="active-green"><a href="ideal-x.php">IDEAL X</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
-               <li><a href="mailto:info@groupr66.com"><i class="fal fa-envelope"></i></a></li>
+               <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
+               <div class="social-menu">
+                  <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
+                   <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
+                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
+               </div>
             </ul>
+
          </div>
       </div>
       <!-- End Navbar-->
@@ -124,13 +130,13 @@
             <div class="row ">
                <div class="col-md-7 text-left" >
                   <div class="intro-left-alt idealx">
-                     <h2>Making Digital<span></span>
+                     <h2>Acquire, Retain, Grow<span></span>
                      </h2>
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare</p>
                   </div>
                </div>
                <div class="col-md-5 intro-right-alt idealx padding-0 ">
-                  <p>Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway.
+                  <p>Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway. Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper.
                      <br><br>
                      <a href="insights.php">View our latest insights  <i class="fas fa-long-arrow-right"></i></a>
                   </p>

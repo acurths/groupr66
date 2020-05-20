@@ -376,6 +376,9 @@ i {}
 	margin-top: -100px;
 	margin-bottom: 30px;
 }
+.r66-white-bg-alt h2, .r66-white-bg h2 {
+	margin-bottom: 20px;
+}
 
 .r66-white-bg p {
 	max-width: 930px;
@@ -581,7 +584,7 @@ button.primary:hover {
 .intro-right {
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/road.jpg);
+	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.5), rgba(29, 29, 29, 0.7)), url(../img/road.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
@@ -614,6 +617,11 @@ button.primary:hover {
 	position: absolute;
 	right: 0;
 }
+.intro-right-alt.connect {
+
+	padding: 100px 80px 120px 80px;
+
+}
 
 .intro-right-alt.idealx {
 	width: 100%;
@@ -623,7 +631,7 @@ button.primary:hover {
 	background-position: 50% 50%;
 	object-fit: cover;
 	/* background-attachment: fixed; */
-	padding: 160px 80px 20px 90px;
+	padding: 160px 80px 40px 90px;
 	overflow: hidden;
 	/* min-height: 480px; */
 	color: #fff;
@@ -644,13 +652,13 @@ button.primary:hover {
 	position: absolute;
 	bottom: 48px;
 	color: #fff;
-	max-width: 80%;
+	max-width: 505px;
 }
 
 .intro-right-alt p {
 	margin-bottom: 100px;
 	color: #fff;
-	max-width: 80%;
+	max-width: 505px;
 }
 
 .intro-right-alt i {
@@ -729,7 +737,7 @@ button.primary:hover {
 }
 
 .hero-right-text p {
-	max-width: 82%;
+	max-width: 645px;
 }
 
 .hero-right-text a {
@@ -959,6 +967,14 @@ button.primary:hover {
 	font-size: 16px;
 	display: inline-block;
 }
+.blog-banner a h6:hover, .blog-banner a h6:hover i {
+	color: #2478B5;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
 
 .blog-banner h4 {
 	text-transform: none;
@@ -978,7 +994,7 @@ button.primary:hover {
 }
 
 .blog-banner h6 i {
-	font-size: 16px;
+	font-size: 14px;
 	color: #1d1d1d;
 	margin-left: 8px;
 }
@@ -1024,10 +1040,10 @@ button.primary:hover {
 .idealx-hero-alt {
 	height: 800px;
 	width: 100%;
-	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/forest.jpg);
+	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/6.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 50% 70%;
+	background-position: 50% 90%;
 	background-color: #fff;
 	object-fit: cover;
 	background-attachment: fixed;
@@ -1089,15 +1105,15 @@ button.primary:hover {
 }
 
 .idealx-bottom-bg {
-	height: 320px;
+	height: 420px;
 	width: 100%;
 	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/6.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 50% 30%;
+	background-position: 50% 10%;
 	background-color: #fff;
 	object-fit: cover;
-	/* background-attachment: fixed; */
+	background-attachment: fixed;
 	padding: 15% 0 0 0;
 	overflow: hidden;
 }
@@ -1168,7 +1184,7 @@ footer {
 }
 
 .footer .social-icons {
-	margin-top: 28px;
+	margin-top: 36px;
 }
 
 .footer a:hover {
@@ -1188,7 +1204,7 @@ footer {
 
 .copyright p {
 	font-size: 14px;
-	margin-top: 52px;
+	margin-top: 44px;
 	color: #fff;
 	opacity: .5;
 	font-weight: 100;
@@ -1201,6 +1217,27 @@ footer {
 
 .footer {
 	background-color: #1d1d1d;
+}
+
+
+.md-form label {
+
+    color: #fff;
+}
+
+.md-form, .modal-dialog.cascading-modal .modal-header .social-buttons {
+    margin-top: 2.5rem;
+}
+.form-button.btn-primary {
+	padding: 12px 32px;
+	border: 2px solid #fff;
+	background: transparent !important;
+
+
+}
+.form-button  {
+		margin-top: 48px;
+		margin-left: 6px;
 }
 
 
@@ -1223,7 +1260,7 @@ footer {
 	-ms-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
 	transition: all 0.3s ease;
-	z-index: 999999;
+	z-index: 9;
 }
 
 #return-to-top i {
@@ -1256,12 +1293,16 @@ footer {
 
 /* Extra large devices (large desktops, 1200px and up) */
 
-@media (max-width: 1200px) {}
+@media (max-width: 1200px) {
+
+}
 
 
 /* Large devices (desktops, 992px and up) */
 
-@media (max-width: 992px) {}
+@media (max-width: 992px) {
+
+}
 
 
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
@@ -1271,7 +1312,73 @@ footer {
 	.hero,
 	.bottom-banner {
 		padding: 100px 0;
+		height: 600px;
 	}
+	.intro-right-alt p {
+    margin-bottom: 40px;
+    color: #fff;
+    max-width: 100%;
+}
+	.container-fluid {
+
+			padding-right: 0 !important;
+			padding-left: 0 !important;
+
+	}
+	.intro {
+		padding: 160px 0 80px 0;
+
+}
+.intro br {
+display: none;
+
+}
+.intro h6 {
+
+		margin-top: 0;
+		margin-bottom: 48px;
+}
+.intro-right-alt, .intro-right-alt.idealx {
+
+		padding: 60px 16px 60px 16px;
+		overflow: hidden;
+
+
+		position: relative;
+
+}
+.intro-right-alt i {
+
+	display: none;
+
+}
+.r66-white-bg-alt {
+		background: #fff;
+		padding: 30px ;
+		margin-top: 0px;
+
+}
+.three-col, .insights .three-col {
+		padding: 30px;
+}
+.pb-100 {
+		padding-bottom:40px;
+}
+.bottom-banner i , .blog-banner i {
+
+		margin-bottom: 48px;
+}
+.homepage-hero, .hero, .bottom-banner {
+		padding: 80px 0;
+}
+.blog-banner{
+		padding: 80px 0 40px 0;
+}
+.intro-left-alt, .intro-left-alt.idealx {
+
+		padding: 60px 0 60px 0;
+
+}
 }
 
 

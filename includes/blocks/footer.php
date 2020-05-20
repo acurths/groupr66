@@ -31,14 +31,15 @@
          <div class="col-md-4 padding-0 social">
             <h5>Social<span></span></h5>
             <div class="row padding-0 social-icons">
-               <div class="col text-left padding-0">
-                  <a href=""><i class="fab fa-linkedin-in "></i></a>
+              <div class="col text-left">
+                 <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
+              </div>
+               <div class="col text-center padding-0">
+                  <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
                </div>
-               <div class="col text-center">
-                  <a href=""><i class="fab fa-facebook-f "></i></a>
-               </div>
+
                <div class="col text-right padding-0">
-                  <a href=""><i class="fab fa-twitter "></i></a>
+                  <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
                </div>
                <div class="copyright">
                   <p>Copyright © 2020 groupr66. Registered trademarks in the united states and reserve the right to hack into your systems whenever, wherever.</p>
