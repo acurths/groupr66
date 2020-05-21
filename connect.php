@@ -133,8 +133,8 @@
  						<!--Grid row-->
 
  					</form>
-          <div class="  form-button">
-						<a class=" form-button btn-primary" onclick="document.getElementById('contact-form').submit();">Send Message</a>
+          <div class="form-button">
+						<a class="btn-primary" onclick="document.getElementById('contact-form').submit();">Send Message</a>
 					</div>
           <div class="status"></div>
                </div>

@@ -137,8 +137,8 @@
                </div>
                <div class="col-md-5 intro-right-alt idealx padding-0 ">
                   <p>Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway. Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper.
-                     <br><br>
-                     <a href="insights.php">View our latest insights  <i class="fas fa-long-arrow-right"></i></a>
+                     <br><br><br>
+                    <a class="btn-secondary alt">Get Started</a>
                   </p>
                </div>
             </div>

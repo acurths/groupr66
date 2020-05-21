@@ -516,15 +516,16 @@ color: #fff;
 
 /* ------ Buttons ------ */
 
-button.primary {
-	margin-top: 48px;
-	font-size: 14px;
-	font-weight: 700;
-	display: inline-block;
-	padding: 24px 64px;
-	color: #fff;
-	border: 2px solid #65A7BD;
-	background-color: #65A7BD;
+a.btn-primary {
+
+	font-size: 16px ;
+	font-weight: 700 ;
+	display: inline-block ;
+	padding: 24px 54px ;
+	color: #fff ;
+	border: 2px solid #ffffff ;
+	border-radius: 1px;
+	background-color: transparent !important;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-ms-transition: all 0.3s ease;
@@ -534,9 +535,34 @@ button.primary {
 	letter-spacing: 0.02em;
 }
 
-button.primary:hover {
-	border: 2px solid #006B8D;
-	background-color: #006B8D;
+a.btn-primary:hover {
+	border: 2px solid #5093C4 !important;
+	background-color: #5093C4 !important;
+	color: #fff;
+}
+
+a.btn-secondary.alt {
+
+	font-size: 16px ;
+	font-weight: 700 ;
+	display: inline-block ;
+	padding: 24px 54px ;
+	color: #fff ;
+	border: 2px solid #ffffff ;
+	border-radius: 1px;
+	background-color: transparent !important;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	line-height: 0;
+	letter-spacing: 0.02em;
+}
+
+a.btn-secondary.alt:hover {
+	border: 2px solid #17A132 !important;
+	background-color: #17A132 !important;
 	color: #fff;
 }
 
@@ -1376,7 +1402,8 @@ display: none;
 }
 .intro-left-alt, .intro-left-alt.idealx {
 
-		padding: 60px 0 60px 0;
+		padding: 60px 0 60px 0
+
 
 }
 }

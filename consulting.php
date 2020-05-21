@@ -102,7 +102,7 @@
 
             </div>
             <div class="col-md-10">
-               </p><a href="#">Learn more about how we can help grow your business<i class="fas fa-long-arrow-right"></i></a></p>
+               <p><a href="#">Learn more about how we can help grow your business<i class="fas fa-long-arrow-right"></i></a></p>
             </div>
          </div>
       </div>
@@ -112,6 +112,7 @@
               <!-- <div class="wow fadeIn" data-wow-delay="0.1s">
                 <i class="fas fa-long-arrow-right"></i>
               </div> -->
+            
             </div>
             <div class="col-md-10 info-block-wide">
                <a href="#">
