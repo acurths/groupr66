@@ -33,7 +33,7 @@
       <!-- Start Navbar-->
       <div class="header light">
          <div class="header-inner">
-            <a href="index.php" class="logo"><img src="img/logowide.png" alt=""></a>
+            <a href="index.php" class="logo"><img src="img/logoclear.png" alt=""></a>
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">

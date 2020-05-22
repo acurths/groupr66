@@ -31,6 +31,10 @@ $('#return-to-top').click(function() { // When arrow is clicked
 
 
 
+function goBack() {
+  window.history.back();
+}
+
 
 
 // ===== Show and Hide ====

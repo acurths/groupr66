@@ -112,10 +112,10 @@
               <!-- <div class="wow fadeIn" data-wow-delay="0.1s">
                 <i class="fas fa-long-arrow-right"></i>
               </div> -->
-            
+
             </div>
             <div class="col-md-10 info-block-wide">
-               <a href="#">
+               <a href="consulting-sub.php">
                   <h4>Customer Solution Optimization (CsO)<i class="fas fa-long-arrow-right"></i></h4>
                   <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
                   <img src="img/cso.jpg" alt="">

@@ -128,14 +128,15 @@
       <section class="half-color-bg">
          <div class="container-fluid  white-bg">
             <div class="row ">
-               <div class="col-md-7 text-left" >
+
+               <div class="col-lg-7 col-md-6 col-sm-12 text-left" >
                   <div class="intro-left-alt idealx">
                      <h2>Acquire, Retain, Grow<span></span>
                      </h2>
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare</p>
                   </div>
                </div>
-               <div class="col-md-5 intro-right-alt idealx padding-0 ">
+               <div class="col-lg-5 col-md-6 col-sm-12 intro-right-alt idealx padding-0 ">
                   <p>Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway. Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper.
                      <br><br><br>
                     <a class="btn-secondary alt">Get Started</a>
