@@ -7,12 +7,14 @@
   border-bottom: 1px solid #17A132;
   padding-bottom: 36px;
 }
-.social-menu {
+.social-menu , .social-menu.light{
   display: none;
 
 }
 
-
+/* .header ul li.mailto {
+  display: none;
+} */
 
 /* menu */
 .header .menu {
@@ -34,13 +36,16 @@ border-bottom: 1px solid #ffffff30;
   z-index: 3;
   top: 0;
 }
-.header {
+.header{
   background-color: #fff;
 border-bottom: 1px solid #ededed;
 position: absolute;
 width: 100%;
 z-index: 20;
 top: 0;
+}
+.header.light {
+  z-index: 20;
 }
 .header-inner {
   max-width: 1440px !important;
@@ -55,9 +60,24 @@ top: 0;
       padding: 0px 38px 6px 0;
       text-decoration: none;
       width: 270px;
+      z-index: 3;
+}
+.header .logo img {
+
+      z-index: 3;
+}
+.header.light .logo {
+    display: block;
+    float: left;
+    font-size: 2em;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-left: -3px;
+    z-index: 3;
+    position: absolute;
 }
 
-.header ul {
+.header ul{
   margin: 0;
   padding: 0;
   list-style: none;
@@ -72,24 +92,25 @@ top: 0;
 }
 .header li {
   display: block;
-  margin: 20px 24px 0 24px;
+  margin: 20px 34px 0 40px;
   text-decoration: none;
 }
 .header.light li {
   display: block;
-  margin: 20px 24px 0 24px;
+margin: 20px 34px 0 40px;
   text-decoration: none;
 }
-.header li.mailto a {
-font-size: 24px;
-margin-top: -3px;
-margin-left: 32px;
+/* .header li.mailto a {
+  font-size: 24px;
+  margin-top: -3px;
+  margin-left: 24px;
 }
 .header.light li.mailto a {
-font-size: 24px;
-margin-top: -3px;
-margin-left: 32px;
-}
+  font-size: 24px;
+  margin-top: -3px;
+  margin-left: 24px;
+} */
+
 
 .header li a:hover,
 .header .menu-btn:hover {
@@ -102,17 +123,50 @@ margin-left: 32px;
   font-size: 2em;
   padding: 10px 20px;
   text-decoration: none;
-margin-left: -18px;
+    margin-left: -3px;
+    z-index: 3;
 }
 
+.header.light .menu-icon .navicon {
+    background: #fff;
 
+}
+.header.light .menu-icon .navicon:before, .header.light .menu-icon .navicon:after {
+    background: #fff;
+
+}
+.header.light .menu-btn:checked ~ .menu {
+    max-height: 100vh;
+    /* background: rgba(0,0,0, .99); */
+        background: #205C87 !important;
+    height: 100vh;
+    width: 100%;
+    text-align: left;
+    padding-top: 163px;
+    position: absolute;
+    top: 0;
+}
 /* menu */
 
 .header .menu {
   clear: both;
   max-height: 0;
   transition: max-height .2s ease-out;
+
 }
+.header.light .menu li a {
+color: #fff;
+}
+
+
+.header.light .social-menu i {
+    font-size: 28px;
+    margin-right: 36px;
+    color: #fff;
+}
+
+
+
 
 /* menu icon */
 
@@ -123,6 +177,7 @@ margin-left: -18px;
   padding: 50px 30px 28px 20px;;
   position: relative;
   user-select: none;
+      z-index: 3;
 }
 
 .header .menu-icon .navicon {
@@ -132,6 +187,9 @@ margin-left: -18px;
   position: relative;
   transition: background .2s ease-out;
   width: 28px;
+  position: absolute;
+z-index: 3;
+right: 30px;
 }
 
 .header .menu-icon .navicon:before,
@@ -160,15 +218,25 @@ margin-left: -18px;
   display: none;
 }
 
-.header .menu-btn:checked ~ .menu {
+/* .header .menu-btn:checked ~ .menu {
   max-height: 100vh;
   background: rgba(255,255,255, 1);
   height: 100vh;
   width: 100%;
   text-align: left;
-  padding-top: 10%;
+  padding-top: 60px;
   position: absolute;
   top: 103px;
+} */
+.header .menu-btn:checked ~ .menu {
+    max-height: 100vh;
+    background: rgba(255,255,255, 1);
+    height: 100vh;
+    width: 100%;
+    text-align: left;
+    padding-top: 60px;
+    position: absolute;
+    top: 103px;
 }
 
 .header .menu-btn:checked ~ .menu-icon .navicon {
@@ -187,14 +255,12 @@ margin-left: -18px;
 .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
   top: 0;
 }
-.social-menu {
-  display: none;
-}
+
 
 /* 48em = 768px */
 
 @media (min-width: 991px) {
-  .header li {
+  .header li ,.header.light li{
     float: left;
   }
   .header li a {
@@ -209,47 +275,92 @@ margin-left: -18px;
     font-weight: 500;
     letter-spacing: 1px;
     font-size: 13px;
-    color: #fff
+    color: #fff;
+      display: block;
   }
-  .header .menu {
+  .header .menu, .header.light .menu {
     clear: none;
     float: right;
     max-height: none;
-    margin-top: 4px;
+    margin-top: 0;
     z-index: 9999;
   }
-  .header .menu-icon {
+  .header .menu-icon, .header.light .menu-icon {
     display: none !important;
   }
 
+
+
 }
 @media (max-width: 991px) {
+  .header .menu-btn:checked ~ .menu .social-menu, .header .menu-btn:checked ~ .menu .mailto{
+  display: block;
+  }
+  .hero h3 {
+      text-transform: none;
+      text-align: left;
+      letter-spacing: 0.02em;
+      color: #FFFFFF;
+      text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.30);
+      margin-top: 100px;
+      max-width: 833px;
+      font-family: Nunito Sans;
+      font-style: normal;
+      font-weight: 800;
+      font-size: 28px;
+      line-height: 123.5%;
+      letter-spacing: 0.04em;
+      color: #FFFFFF;
+  }
   .social-menu {
-
-    display: block;
     position: absolute;
     bottom: 150px;
-    left: 20px;
+    left: 30px;
   }
+
+  .header.light .social-menu.light{
+
+    position: absolute;
+    bottom: 57px;
+    left: 30px;
+  }
+  .social-menu.light i{
+
+  font-size: 28px;
+  margin-right: 36px;
+  color: #fff;
+  }
+
   .social-menu i{
 
   font-size: 28px;
   margin-right: 36px;
   color: #1d1d1d;
   }
-  .header .menu li.active {
+  .header .menu li.active, .header .menu li.active-green  {
       border-bottom: 0 solid #fff;
-      padding-bottom: 28px;
+padding-bottom: 18px;
 
   }
-  .header .menu li.active a{
 
-      color: #2478B5;
-  }
+
+.header .menu li.active a{
+
+    color: #2478B5;
+}
+.header .menu li.active-green a{
+
+    color:  #17A132;
+}
   .header .menu li {
 
-      padding-bottom: 28px;
+        padding-bottom: 18px;
   }
+  .header li {
+
+    margin: 20px 30px 0 30px;
+
+}
   .header li a {
 
     font-weight: 800;
@@ -263,15 +374,33 @@ margin-left: -18px;
   }
   .header li.mailto {
     position: absolute;
-    bottom: 122px;
-    right: 18px;
+    bottom: 133px;
+    right: 0;
+        display: none;
+
+  }
+  .header.light li.mailto {
+    position: absolute;
+      bottom: 30px;
+      right: 0;
+      display: none;
+
   }
   .header li.mailto i {
   font-size: 32px !important;
   }
-  .header {
-
+  .header , .header.light{
+z-index: 20px;
     position: fixed;
+    -webkit-box-shadow: 1px 0px 12px 0px rgba(0,0,0,0.04);
+    -moz-box-shadow: 1px 0px 12px 0px rgba(0,0,0,0.04);
+    box-shadow: 1px 0px 12px 0px rgba(0,0,0,0.04);
+
+}
+.header.light {
+border-bottom: 0 !important;
+background:  #205C87 !important;
+
 
 }
 .header .menu {

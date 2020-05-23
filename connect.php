@@ -44,8 +44,9 @@
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
                   <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
-                  <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
+                   <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
+
                </div>
             </ul>
          </div>
@@ -71,14 +72,14 @@
       <section class="half-color-bg">
          <div class="container-fluid ">
             <div class="row ">
-               <div class="col-md-7 text-left grey-bg" >
+               <div class="col-lg-7 col-md-6 text-left grey-bg" >
                   <div class="intro-left-alt">
                      <h2>Bridge the Gap<span></span>
                      </h2>
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare</p>
                   </div>
                </div>
-               <div class="col-md-5 intro-right-alt connect padding-0 ">
+               <div class="col-lg-5 col-md-6 intro-right-alt connect padding-0 ">
                   <form id="contact-form" name="contact-form" action="mail.php" method="POST">
                      <!--Grid row-->
                      <div class="row">
@@ -129,7 +130,7 @@
                </div>
             </div>
          </div>
-         <div class="hero insights-bg ">
+         <div class="hero insights-bg alt">
          </div>
       </section>
       <?php require_once ('includes/blocks/footer.php'); ?>

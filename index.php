@@ -44,8 +44,9 @@
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
                   <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
-                  <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
+                   <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
+
                </div>
             </ul>
 
@@ -64,10 +65,10 @@
                </div>
             </div>
             <div class="row row-wide hp-hero-large padding-0">
-               <div class="col-md-7 padding-0">
+               <div class="col-lg-7 col-md-6  padding-0">
                   <img src="img/R66.png" alt="">
                </div>
-               <div class="col-md-5 padding-0 hero-right-text">
+               <div class="col-lg-5 col-md-6  padding-0 hero-right-text">
                   <p style="">Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework
                      to avoid potholes on the constantly evolving digital highway.
                      <br><br>
@@ -78,18 +79,22 @@
          </div>
          <div class="row">
             <div class="col-md-12">
+                <div class=" hero-secondary">
+
                <h3>Revenue based services that optimize customer experiences.</h3>
                <p class="hero-text">GR66 has been implementing technology solutions for marketing and sales since the inception of, “digital marketing”</p>
                <br><br>
                <i class="fal fa-long-arrow-down"></i>
             </div>
+              </div>
          </div>
       </div>
    </section>
    <section class="grey-bg pb-100">
       <div class="container-fluid">
          <div class="row ">
-            <div class="col-md-12 text-center">
+
+            <div class="col-md-10 text-left">
                <div class="r66-white-bg ">
                   <h2>
                      Customer Solution Optimization <span>(CSO)</span>
@@ -97,12 +102,16 @@
                   <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
                </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-2">
+
+            </div>
+            <div class="col-md-4 ">
                <div class="three-col">
-                  <i class="fal fa-atom-alt"></i>
+  <i class="fal fa-atom-alt"></i>
+
                   <h4>Disruption</h4>
                   <p>Increased pressure has created a disruptive landscape.</p>
-                  <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
+                  <p class="up"><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
                </div>
             </div>
             <div class="col-md-4">

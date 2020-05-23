@@ -44,8 +44,9 @@
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
                   <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
+                  <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
                    <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
-                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
+
                </div>
             </ul>
 
@@ -60,14 +61,19 @@
          <div class="idealx-hero">
             <div class="hero-box">
                <div class="hero-intro-text text-center wow fadeIn" data-wow-delay="0s">
-                  <div class="col-md-12 padding-0">
+                 <div class="row">
+                 <div class="col-lg-5 col-md-3 padding-0">
+
+                 </div>
+                  <div class="col-lg-7 col-md-9  padding-0">
                      <h1>Outpace digital disruption and <span style="color: #17A132;">stay competitive</span></h1>
                   </div>
                </div>
-               <div class="row row-wide hp-hero-large padding-0">
-                  <div class="col-md-6 padding-0">
+               </div>
+               <div class="row  hp-hero-large padding-0">
+                  <div class="col-lg-6 col-md-3   padding-0">
                   </div>
-                  <div class="col-md-6 padding-0 hero-right-text">
+                  <div class="col-lg-6 col-md-9  padding-0 hero-right-text">
                      <p style="">In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. <b>IDEALX </b>is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model.
                         <br><br>
                         <a href="#">Optimize customer equity with data-driven action<i class="fas fa-long-arrow-right"></i></a>
@@ -144,7 +150,7 @@
                </div>
             </div>
          </div>
-         <div class="hero idealx-bottom-bg ">
+         <div class="idealx-bottom-bg ">
          </div>
       </section>
       <!--  -->

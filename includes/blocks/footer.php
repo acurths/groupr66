@@ -14,21 +14,28 @@
 <footer class="footer">
    <div class="container-fluid">
       <div class="row">
-         <div class="col-md-4 text-left padding-left-0">
+        <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 text-left">
+           <!-- <h5>Sitemap</h5> -->
+           <img src="img/logoclear.png" class="logo-hide" alt="">
+             <img src="img/logoclear-alt.png" alt="" class="logo-hide-alt">
+        </div>
+        <div class="col-lg-3 col-md-1 text-left hide">
+
+
+        </div>
+         <div class="col-lg-2 col-md-2  col-sm-6 col-xs-6 text-left padding-left-0">
             <!-- <img src="img/logo-dark.jpg" alt=""> -->
-            <img src="img/logoclear.png" alt="">
+
+              <ul>
+                 <li><a href="index.php"></i>Home</a></li>
+                 <li><a href="consulting.php"></i>Consulting</a></li>
+                 <li><a href="ideal-x.php"></i>IDEALX</a></li>
+                 <li><a href="insights.php"></i>Insights</a></li>
+                 <li><a href="connect.php"></i>Connnect</a></li>
+              </ul>
          </div>
-         <div class="col-md-4 text-left">
-            <!-- <h5>Sitemap</h5> -->
-            <ul>
-               <li><a href="index.php"></i>Home</a></li>
-               <li><a href="consulting.php"></i>Consulting</a></li>
-               <li><a href="ideal-x.php"></i>IDEALX</a></li>
-               <li><a href="insights.php"></i>Insights</a></li>
-               <li><a href="connect.php"></i>Connnect</a></li>
-            </ul>
-         </div>
-         <div class="col-md-4 padding-0 social">
+
+         <div class="col-lg-4  col-md-6 col-sm-12 padding-0 social">
             <h5>Social<span></span></h5>
             <div class="row padding-0 social-icons">
               <div class="col text-left">
@@ -62,7 +69,10 @@
 <!-- Plugins JS file -->
 <script src="js/vendor/scrollspy.js"></script>
 <script src="js/plugins.js"></script>
+
+
 <!-- JS file -->
 <script src="js/main.js"></script>
+<script src="js/jquery.matchHeight.js"></script>
 </body>
 </html>

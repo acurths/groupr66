@@ -24,6 +24,7 @@
       </div>
       <div class="col-md-6 right">
         <p>Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway.</p>
+
           <a href="mailto:info@groupr66.com">
             <h6>info@groupr66.com</h6>
           </a>

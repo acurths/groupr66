@@ -44,8 +44,9 @@
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
                   <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
+                  <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
                    <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
-                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
+
                </div>
             </ul>
 
@@ -69,6 +70,7 @@
             </div>
          </div>
       </section>
+
       <section class="half-color-bg">
          <div class="container-fluid ">
             <div class="row ">
@@ -85,14 +87,17 @@
                   <i class="fal fa-long-arrow-down"></i>
                </div>
             </div>
+
          </div>
-         <div class="hero insights-bg ">
-         </div>
+
       </section>
+      <div class="hero insights-bg ">
+      </div>
       <section class="grey-bg pb-100">
          <div class="container-fluid insights">
+
             <div class="row ">
-               <div class="col-md-8 text-left">
+               <div class="col-lg-8 col-md-12 text-left">
                   <div class="r66-white-bg-alt ">
                      <h2>
                         Our latest <span>insights</span>
@@ -100,9 +105,9 @@
                      <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
                   </div>
                </div>
-               <div class="col-md-4 text-center">
+               <div class="col-lg-4 col-md-12 text-center">
                </div>
-               <div class="col-md-4">
+               <div class="col-lg-4 col-md-6">
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col">
                      <h4>Who's Your Data? Contextualize, Personalize, and Integrate</h4>
@@ -110,7 +115,7 @@
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-lg-4 col-md-6">
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col">
                      <h4>Refuel 2018 Digital Transformations with (AI), (IOT) & (BI)</h4>
@@ -118,7 +123,7 @@
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-lg-4 col-md-6">
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col ">
                      <h4>Unify Your Digital Ecosystem by Connecting the Dots</h4>
@@ -126,7 +131,7 @@
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-lg-4 col-md-6">
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col">
                      <h4>Who's Your Data? Contextualize, Personalize, and Integrate</h4>
@@ -134,7 +139,7 @@
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-lg-4 col-md-6">
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col">
                      <h4>Refuel 2018 Digital Transformations with (AI), (IOT) & (BI)</h4>
@@ -142,7 +147,7 @@
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-md-4">
+               <div class="col-lg-4 col-md-6">
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col ">
                      <h4>Unify Your Digital Ecosystem by Connecting the Dots</h4>
@@ -153,6 +158,7 @@
             </div>
          </div>
       </section>
+
       <?php require_once ('includes/blocks/contact-banner.php'); ?>
       <?php require_once ('includes/blocks/footer.php'); ?>
    </div>

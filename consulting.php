@@ -44,8 +44,9 @@
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
                   <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
+                  <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
                    <a href="https://www.linkedin.com/company/groupr66/" target="_blank"><i class="fab fa-linkedin-in "></i></a>
-                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
+
                </div>
             </ul>
 
