@@ -59,7 +59,7 @@
    <section class="hero">
       <div class="homepage-hero">
          <div class="hero-box">
-            <div class="hero-intro-text text-center wow fadeIn" data-wow-delay="0.4s">
+            <div class="hero-intro-text text-center">
                <div class="col-md-12 padding-0">
                   <h1>Your partner along the digital highway</h1>
                </div>
@@ -94,7 +94,7 @@
       <div class="container-fluid">
          <div class="row ">
 
-            <div class="col-md-10 text-left">
+            <div class="col-md-12 text-left">
                <div class="r66-white-bg ">
                   <h2>
                      Customer Solution Optimization <span>(CSO)</span>
@@ -102,11 +102,11 @@
                   <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
                </div>
             </div>
-            <div class="col-md-2">
+            <!-- <div class="col-md-2">
 
-            </div>
+            </div> -->
             <div class="col-md-4 ">
-               <div class="three-col">
+               <div class="three-col wow fadeIn">
   <i class="fal fa-atom-alt"></i>
 
                   <h4>Disruption</h4>
@@ -115,7 +115,7 @@
                </div>
             </div>
             <div class="col-md-4">
-               <div class="three-col">
+               <div class="three-col wow fadeIn" data-wow-delay="0.2s">
                   <i class="fal fa-chart-line"></i>
                   <h4>Trusted Advisor</h4>
                   <p>Partner with industry veterans with decades of experience.</p>
@@ -123,7 +123,7 @@
                </div>
             </div>
             <div class="col-md-4">
-               <div class="three-col ">
+               <div class="three-col wow fadeIn" data-wow-delay="0.4s">
                   <i class="fal fa-seedling"></i>
                   <h4>Grow Your Business</h4>
                   <p>Results are the foundation of any successful digital deployment.</p>

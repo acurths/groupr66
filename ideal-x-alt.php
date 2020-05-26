@@ -60,7 +60,7 @@
       <section class="hero">
          <div class="idealx-hero">
             <div class="hero-box">
-               <div class="hero-intro-text text-center">
+               <div class="hero-intro-text text-center wow fadeIn" data-wow-delay="0s">
                  <div class="row">
                  <div class="col-lg-5 col-md-3 padding-0">
 
@@ -105,7 +105,7 @@
                   </div>
                </div>
                <div class="col-md-4">
-                  <div class="three-col wow fadeIn" data-wow-delay="0.2s" >
+                  <div class="three-col">
                      <i class="fal fa-tachometer-alt-fast"></i>
                      <h4>Accelerate Acquisition</h4>
                      <p>Drive effective digital business transformation with streamlined acquisition of prospects.</p>
@@ -113,7 +113,7 @@
                   </div>
                </div>
                <div class="col-md-4">
-                  <div class="three-col wow fadeIn" data-wow-delay="0.2s">
+                  <div class="three-col">
                      <i class="fal fa-chart-line"></i>
                      <h4>Maximize Retention</h4>
                      <p>A customer-led strategy fused with high-impactful processes provides a seamless execution for maximum retention.</p>
@@ -121,7 +121,7 @@
                   </div>
                </div>
                <div class="col-md-4">
-                  <div class="three-col wow fadeIn" data-wow-delay="0.2s">
+                  <div class="three-col ">
                      <i class="fal fa-seedling"></i>
                      <h4>Grow Your Business</h4>
                      <p>Dodge organizational friction with a new operating picture that is aligned around the drivers of revenue.</p>

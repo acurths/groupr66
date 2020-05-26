@@ -318,10 +318,10 @@ right: 30px;
     left: 30px;
   }
 
-  .header.light .social-menu.light{
+  .header.light .social-menu{
 
     position: absolute;
-    bottom: 57px;
+    bottom: 44px;
     left: 30px;
   }
   .social-menu.light i{

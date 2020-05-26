@@ -103,7 +103,7 @@
 
             </div>
             <div class="col-md-10">
-               <p><a href="#">Learn more about how we can help grow your business<i class="fas fa-long-arrow-right"></i></a></p>
+               <p><a href="#">Embrace A Data-Driven Digital Framework<i class="fas fa-long-arrow-right"></i></a></p>
             </div>
          </div>
       </div>
@@ -115,7 +115,7 @@
               </div> -->
 
             </div>
-            <div class="col-md-10 info-block-wide">
+            <div class="col-md-10 info-block-wide wow fadeIn">
                <a href="consulting-sub.php">
                   <h4>Customer Solution Optimization (CsO)<i class="fas fa-long-arrow-right"></i></h4>
                   <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
@@ -126,14 +126,14 @@
          <div class="row">
             <div class="col-md-2 ">
             </div>
-            <div class="col-md-5 info-block">
+            <div class="col-md-5 info-block wow fadeIn" data-wow-delay="0.2s">
                <a href="#">
                   <h4>Disruption<i class="fas fa-long-arrow-right"></i></h4>
                   <p>Increased pressure has created a disruptive landscape.</p>
                   <img src="img/road-1.jpg" alt="">
                </a>
             </div>
-            <div class="col-md-5 info-block">
+            <div class="col-md-5 info-block wow fadeIn" data-wow-delay="0.2s">
                <a href="#">
                   <h4>Trusted Advisor<i class="fas fa-long-arrow-right"></i></h4>
                   <p>Partner with industry veterans with decades of experience.</p>
@@ -144,14 +144,14 @@
          <div class="row">
             <div class="col-md-2">
             </div>
-            <div class="col-md-5 info-block">
+            <div class="col-md-5 info-block wow fadeIn" data-wow-delay="0.2s">
                <a href="#">
                   <h4>Grow Your Business<i class="fas fa-long-arrow-right"></i></h4>
                   <p>Results are the foundation of any successful digital deployment.</p>
                   <img src="img/road-1.jpg" alt="">
                </a>
             </div>
-            <div class="col-md-5 info-block">
+            <div class="col-md-5 info-block wow fadeIn" data-wow-delay="0.2s">
                <a href="ideal-x.php">
                   <h4>IDEALX<i class="fas fa-long-arrow-right"></i></h4>
                   <p>Outpace digital disruption and stay competitive in the rapidly evolving transformative age. </p>
