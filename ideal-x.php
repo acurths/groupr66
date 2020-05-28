@@ -106,7 +106,7 @@
                </div>
                <div class="col-md-4">
                   <div class="three-col wow fadeIn" >
-                  <i class="fal fa-meteor"></i>
+                <i class="fal fa-tachometer-alt-fast"></i>
                      <h4>Accelerate Acquisition</h4>
                      <p>Drive effective digital business transformation with streamlined acquisition of prospects.</p>
                      <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>

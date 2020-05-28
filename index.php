@@ -107,8 +107,7 @@
             </div> -->
             <div class="col-md-4 ">
                <div class="three-col wow fadeIn">
-  <i class="fal fa-car-crash"></i>
-
+      <i class="fal fa-meteor"></i>
                   <h4>Disruption</h4>
                   <p>Increased pressure has created a disruptive landscape.</p>
                   <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
@@ -116,7 +115,7 @@
             </div>
             <div class="col-md-4">
                <div class="three-col wow fadeIn" data-wow-delay="0.2s">
-                  <i class="fal fa-hands-helping"></i>
+                  <i class="fal fa-handshake-alt"></i>
                   <h4>Trusted Advisor</h4>
                   <p>Partner with industry veterans with decades of experience.</p>
                   <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>

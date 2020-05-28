@@ -535,13 +535,60 @@ p.hero-text {
 }
 
 .insights .three-col a {
-	font-size: 16px !important;
+	font-size: 14px !important;
 	margin-bottom: 20px;
 	font-weight: 700;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+.insights .three-col a:hover {
+   color: #2A73B8;
+}
+.insights .three-col a:hover i{
+   color: #2A73B8;
+}
+.insights .three-col a i{
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
 }
 
 .insights .three-col {
 	padding: 46px;
+}
+
+.insights img {
+    max-height: 240px !important;
+}
+
+.insights-bg {
+	height: 400px;
+	width: 100%;
+	background-image: url(../img/idealx-alt.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-color: #fff;
+	object-fit: cover;
+	padding: 15% 0 0 0;
+	overflow: hidden;
+}
+.insights-bg.alt {
+	height: 400px;
+	width: 100%;
+	background-image: url(../img/insights-alt.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 70%;
+	background-color: #fff;
+	object-fit: cover;
+	padding: 15% 0 0 0;
+	overflow: hidden;
 }
 
 
@@ -895,12 +942,11 @@ p.hero-text {
 	max-width: 90%;
 }
 
-.info-block-wide img,
-.info-block img {
-	margin: 20px 0 60px 0;
-	width: 100%;
-	background: #000;
+.info-block-wide img, .info-block img {
+    margin: 20px 0 60px 0;
+    width: 100%;
 }
+
 
 .info-sections .info-block-wide i,
 .info-sections .info-block i {
@@ -1087,19 +1133,6 @@ p.hero-text {
 
 .half-color-bg p {
 	color: #fff;
-}
-
-.insights-bg {
-	height: 400px;
-	width: 100%;
-	background-image: url(../img/idealx-alt.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: 50% 50%;
-	background-color: #fff;
-	object-fit: cover;
-	padding: 15% 0 0 0;
-	overflow: hidden;
 }
 
 .idealx-bottom-bg {
@@ -1405,6 +1438,11 @@ footer {
 /* Large devices (desktops, 992px and up) */
 
 @media (max-width: 992px) {
+	.subpage-section {
+
+    padding: 180px 0 120px 0;
+
+}
 	.hero h3 {
 		text-transform: none;
 		text-align: left;
@@ -1530,6 +1568,14 @@ footer {
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
 
 @media (max-width: 768px) {
+	.subpage-section {
+		padding: 140px 0 120px 0;
+}
+.subpage-section h6 i {
+    font-size: 28px;
+    padding-top: 12px;
+    margin-bottom: 36px;
+}
 	.homepage-hero h1 {
 		font-size: 48px !important;
 		padding-right: 30px;

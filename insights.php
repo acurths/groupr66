@@ -108,57 +108,100 @@
                <div class="col-lg-4 col-md-12 text-center">
                </div>
               <div class="col-lg-4 col-md-6 wow fadeIn" >
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/server.jpg" alt="">
                   <div class="three-col">
                      <h4>Who's Your Data? Contextualize, Personalize, and Integrate</h4>
                      <p>Not all data is created equal. You take the good, filter out the bad and there you have, the data to make digital decisions.</p>
-                     <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p><a href="https://www.linkedin.com/pulse/whos-your-data-contexualize-personalize-integrate-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
                 <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.2s">
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/digital.jpg" alt="">
                   <div class="three-col">
                      <h4>Refuel 2018 Digital Transformations with (AI), (IOT) & (BI)</h4>
                      <p>Is your digital strategy outdated? Want to be an AI, IoT, BI digital disruption terminator?</p>
-                     <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p><a href="https://www.linkedin.com/pulse/refuel-2018-digital-transformations-artificial-ai-internet-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
                  <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.4s">
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/unify.jpg" alt="">
                   <div class="three-col">
                      <h4>Unify Your Digital Ecosystem by Connecting the Dots</h4>
                      <p>The digital landscape has changed. The formation of ecosystems is now evident in digitally mature organizations.</p>
-                     <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p><a href="https://www.linkedin.com/pulse/unify-your-digital-ecosystem-connecting-dots-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6 wow fadeIn" >
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/partner.jpeg" alt="">
                   <div class="three-col" >
-                     <h4>Who's Your Data? Contextualize, Personalize, and Integrate</h4>
-                     <p>Not all data is created equal. You take the good, filter out the bad and there you have, the data to make digital decisions.</p>
-                     <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <h4>5 Reasons Why Picking a Solution Partner is Like a Marriage</h4>
+                     <p>Have you ever been involved in a digital marketing project that got derailed? Has your launch date been pushed due to...</p>
+                     <p><a href="https://www.linkedin.com/pulse/5-reasons-why-picking-solution-partner-like-marriage-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.2s">
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/transformation.jpeg" alt="">
                   <div class="three-col">
-                     <h4>Refuel 2018 Digital Transformations with (AI), (IOT) & (BI)</h4>
-                     <p>Is your digital strategy outdated? Want to be an AI, IoT, BI digital disruption terminator?</p>
-                     <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <h4>What Is Stopping You From Your Digital Transformation?</h4>
+                     <p>The verdict is in. Digital transformation is imperative to every sales and marketing strategy regardless of industry.</p>
+                     <p><a href="https://www.linkedin.com/pulse/what-stopping-you-from-your-digital-transformation-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.4s">
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/future.jpeg" alt="">
                   <div class="three-col">
-                     <h4>Unify Your Digital Ecosystem by Connecting the Dots</h4>
-                     <p>The digital landscape has changed. The formation of ecosystems is now evident in digitally mature organizations.</p>
-                     <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <h4>Group R66 Looks Back To Envision The Futures</h4>
+                     <p>The future is here. Self-driving cars, printed human organs, and retinal implants are no longer hypothetical technologies...</p>
+                     <p><a href="https://www.linkedin.com/pulse/group-r66-looks-back-envision-future-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
             </div>
          </div>
       </section>
+      <!-- <div class="hero insights-bg alt ">
+      </div>
+      <section class="grey-bg pb-100">
+         <div class="container-fluid insights">
 
+            <div class="row ">
+               <div class="col-lg-8 col-md-12 text-left">
+                  <div class="r66-white-bg-alt ">
+                     <h2 class="wow fadeIn">
+                        Industry <span>Insights</span>
+                     </h2>
+                     <p class="wow fadeIn">As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-12 text-center">
+               </div>
+              <div class="col-lg-4 col-md-6 wow fadeIn" >
+                  <img src="img/cdo.jpg" alt="">
+                  <div class="three-col">
+                     <h4>It's The Job Title Defining 21st Century Companies — But What Does CDO Mean?</h4>
+                     <p>Is your digital strategy outdated? Want to be an AI, IoT, BI digital disruption terminator?</p>
+                     <p><a href="https://www.forbes.com/sites/delltechnologies/2019/01/30/its-the-job-title-defining-21st-century-companies--but-what-does-cdo-mean/#6da41d9d54e7" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                  </div>
+               </div>
+                <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.2s">
+                  <img src="img/predictions.png" alt="">
+                  <div class="three-col">
+                     <h4>Predictions 2019: Transformation Goes Pragmatic</h4>
+                     <p>What do we mean by pragmatism? A sense of realism, practical steps, a desire for tangible outcomes.</p>
+                     <p><a href="https://go.forrester.com/blogs/predictions-2019-transformation-goes-pragmatic/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                  </div>
+               </div>
+                 <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.4s">
+                  <img src="img/strategy.jpg" alt="">
+                  <div class="three-col">
+                     <h4>Driving digital strategy - Digital strategy matters to all business leaders.</h4>
+                     <p>Digital strategy matters to all business leaders. As the key facilitator of digital strategy, it is essential that CIOs need...</p>
+                     <p><a href="https://www.idginsiderpro.com/article/3314980/driving-digital-strategy.html" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                  </div>
+               </div>
+
+            </div>
+         </div>
+      </section> -->
       <?php require_once ('includes/blocks/contact-banner.php'); ?>
       <?php require_once ('includes/blocks/footer.php'); ?>
    </div>
