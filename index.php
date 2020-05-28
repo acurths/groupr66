@@ -31,7 +31,7 @@
       <!-- Scroll to top button -->
       <a href="javascript:" id="return-to-top"><i class="fal fa-chevron-up"></i></a>
       <!-- Start Navbar-->
-      <div class="header light">
+      <div class="header transparent">
          <div class="header-inner">
             <a href="index.php" class="logo"><img src="img/logoclear.png" alt=""></a>
             <input class="menu-btn" type="checkbox" id="menu-btn" />
@@ -79,7 +79,7 @@
          </div>
          <div class="row">
             <div class="col-md-12">
-                <div class=" hero-secondary">
+                <div class=" hero-secondary wow fadeIn">
 
                <h3>Revenue based services that optimize customer experiences.</h3>
                <p class="hero-text">GR66 has been implementing technology solutions for marketing and sales since the inception of, “digital marketing”</p>
@@ -95,11 +95,11 @@
          <div class="row ">
 
             <div class="col-md-12 text-left">
-               <div class="r66-white-bg ">
-                  <h2>
+               <div class="r66-white-bg">
+                  <h2 class="wow fadeIn">
                      Customer Solution Optimization <span>(CSO)</span>
                   </h2>
-                  <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
+                  <p class="wow fadeIn">As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
                </div>
             </div>
             <!-- <div class="col-md-2">
@@ -107,16 +107,16 @@
             </div> -->
             <div class="col-md-4 ">
                <div class="three-col wow fadeIn">
-  <i class="fal fa-atom-alt"></i>
+  <i class="fal fa-car-crash"></i>
 
                   <h4>Disruption</h4>
                   <p>Increased pressure has created a disruptive landscape.</p>
-                  <p class="up"><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
+                  <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
                </div>
             </div>
             <div class="col-md-4">
                <div class="three-col wow fadeIn" data-wow-delay="0.2s">
-                  <i class="fal fa-chart-line"></i>
+                  <i class="fal fa-hands-helping"></i>
                   <h4>Trusted Advisor</h4>
                   <p>Partner with industry veterans with decades of experience.</p>
                   <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>

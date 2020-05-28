@@ -471,15 +471,19 @@ p.hero-text {
 	margin-bottom: 30px;
 }
 
-.r66-white-bg-alt h2,
-.r66-white-bg h2 {
-	margin-bottom: 20px;
+.r66-white-bg-alt h2 {
+    margin-bottom: 20px;
+    text-align: left;
 }
-
+.r66-white-bg h2 {
+	 margin-bottom: 20px;
+	 text-align: center;
+}
 .r66-white-bg p {
-	margin: 0 auto;
-	font-size: 18px;
-	text-align: left;
+    margin: 0 auto;
+    font-size: 18px;
+    text-align: center;
+    max-width: 980px;
 }
 
 .three-col {
@@ -720,7 +724,7 @@ p.hero-text {
 	flex: 1 1 auto;
 	border-top: 2px solid #ddd;
 	margin-left: 48px;
-	margin-top: 48px;
+	margin-top: 40px;
 }
 
 .intro-left h2 {
@@ -849,17 +853,19 @@ p.hero-text {
 
 .color-banner-cta {
 	width: 100%;
-	background-color: #5093C4;
-	padding: 28px 0;
+	background-color: #38AECC;
+	padding: 36px 0;
 	overflow: hidden;
 }
-
+.color-banner-cta p{
+  margin-bottom: 0 !important;
+}
 .color-banner-cta i {
 	margin-left: 8px;
 }
 
 .color-banner-cta a {
-	font-weight: 500;
+	font-weight: 600;
 	color: #fff;
 	font-size: 18px;
 }
@@ -1359,6 +1365,10 @@ footer {
 	.insights .three-col {
 		padding: 30px;
 	}
+	.insights .row {
+		padding-left: 0;
+		padding-right: 0;
+	}
 	.intro {
 		padding: 200px 0 140px 0;
 	}
@@ -1432,6 +1442,7 @@ footer {
 		margin-top: -100px;
 		margin-bottom: 30px;
 	}
+
 	.pb-100 {
 		padding-bottom: 60px;
 	}
@@ -1444,9 +1455,12 @@ footer {
 	.intro-right-alt {
 		padding: 110px 30px 40px 30px;
 	}
-	.intro-left-alt {
+	/* .intro-left-alt {
 		padding: 30px 80px 30px 0;
-	}
+	} */
+	.intro-left-alt {
+    padding: 30px 30px 30px 0;
+}
 	.r66-white-bg-alt {
 		padding: 40px 30px;
 	}
@@ -1635,6 +1649,9 @@ footer {
 		padding: 30px;
 		margin-top: -60px;
 	}
+	.r66-white-bg-alt h2, .r66-white-bg h2, 	.r66-white-bg p {
+text-align: left;
+	}
 	.three-col,
 	.insights .three-col {
 		padding: 30px;
@@ -1738,9 +1755,12 @@ footer {
 		height: 600px !important;
 		margin-top: 98px;
 	}
+	.info-sections .info-block-wide p {
+    max-width: 100%;
+}
 	.footer ul {
 		float: right;
-		padding-right: 0;
+		padding-right: 30px;
 	}
 	.r66-white-bg-alt {
 		background: #fff;
@@ -1749,7 +1769,7 @@ footer {
 	}
 	.idealx-hero h1 {
 		padding-top: 30px;
-		font-size: 36px !important;
+		font-size: 34px !important;
 	}
 	.intro-right-alt.connect {
 		padding: 30px 15px 80px 15px;

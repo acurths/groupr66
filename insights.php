@@ -55,7 +55,7 @@
       <!-- End Navbar-->
    </header>
    <!-- End Header -->
-   <div class="groupr66">
+   <div class="">
       <!-- Start Homepage Hero -->
       <section class="intro">
          <div class="row">
@@ -99,15 +99,15 @@
             <div class="row ">
                <div class="col-lg-8 col-md-12 text-left">
                   <div class="r66-white-bg-alt ">
-                     <h2>
+                     <h2 class="wow fadeIn">
                         Our latest <span>insights</span>
                      </h2>
-                     <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
+                     <p class="wow fadeIn">As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
                   </div>
                </div>
                <div class="col-lg-4 col-md-12 text-center">
                </div>
-               <div class="col-lg-4 col-md-6">
+              <div class="col-lg-4 col-md-6 wow fadeIn" >
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col">
                      <h4>Who's Your Data? Contextualize, Personalize, and Integrate</h4>
@@ -115,7 +115,7 @@
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.2s">
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col">
                      <h4>Refuel 2018 Digital Transformations with (AI), (IOT) & (BI)</h4>
@@ -123,23 +123,23 @@
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-lg-4 col-md-6">
+                 <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.4s">
                   <img src="img/road-1.jpg" alt="">
-                  <div class="three-col ">
+                  <div class="three-col">
                      <h4>Unify Your Digital Ecosystem by Connecting the Dots</h4>
                      <p>The digital landscape has changed. The formation of ecosystems is now evident in digitally mature organizations.</p>
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-lg-4 col-md-6">
+               <div class="col-lg-4 col-md-6 wow fadeIn" >
                   <img src="img/road-1.jpg" alt="">
-                  <div class="three-col">
+                  <div class="three-col" >
                      <h4>Who's Your Data? Contextualize, Personalize, and Integrate</h4>
                      <p>Not all data is created equal. You take the good, filter out the bad and there you have, the data to make digital decisions.</p>
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-lg-4 col-md-6">
+               <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.2s">
                   <img src="img/road-1.jpg" alt="">
                   <div class="three-col">
                      <h4>Refuel 2018 Digital Transformations with (AI), (IOT) & (BI)</h4>
@@ -147,9 +147,9 @@
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                </div>
-               <div class="col-lg-4 col-md-6">
+               <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.4s">
                   <img src="img/road-1.jpg" alt="">
-                  <div class="three-col ">
+                  <div class="three-col">
                      <h4>Unify Your Digital Ecosystem by Connecting the Dots</h4>
                      <p>The digital landscape has changed. The formation of ecosystems is now evident in digitally mature organizations.</p>
                      <p><a href="#">View Article<i class="fas fa-long-arrow-right"></i></a></p>

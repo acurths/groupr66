@@ -15,7 +15,7 @@
 <!-- Footer -->
 
 <div class="blog-banner">
-  <div class="row">
+  <div class="row wow fadeIn">
     <div class="col-md-2">
       <i class="fal fa-rss"></i>
     </div>

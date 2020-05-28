@@ -83,7 +83,7 @@
             </div>
          </div>
          <div class="hero idealx-hero-alt ">
-            <div class="row">
+            <div class="row wow fadeIn">
                <div class="col-md-12">
                   <h3>Implementing <br>technology solutions for marketing and sales</h3>
                   <p class="hero-text">Our team of trusted guides will maneuver around the turbulence of the constantly evolving digital highway to help you reach your destination.</p>
@@ -98,15 +98,15 @@
             <div class="row ">
                <div class="col-md-12 text-center">
                   <div class="r66-white-bg ">
-                     <h2>
+                     <h2 class="wow fadeIn">
                         Customer Revenue Optimization <span style="color: #17A132">(CRO)</span>
                      </h2>
-                     <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
+                     <p class="wow fadeIn">As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
                   </div>
                </div>
                <div class="col-md-4">
-                  <div class="three-col wow fadeIn" data-wow-delay="0.2s" >
-                     <i class="fal fa-tachometer-alt-fast"></i>
+                  <div class="three-col wow fadeIn" >
+                  <i class="fal fa-meteor"></i>
                      <h4>Accelerate Acquisition</h4>
                      <p>Drive effective digital business transformation with streamlined acquisition of prospects.</p>
                      <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
@@ -121,7 +121,7 @@
                   </div>
                </div>
                <div class="col-md-4">
-                  <div class="three-col wow fadeIn" data-wow-delay="0.2s">
+                  <div class="three-col wow fadeIn" data-wow-delay="0.4s">
                      <i class="fal fa-seedling"></i>
                      <h4>Grow Your Business</h4>
                      <p>Dodge organizational friction with a new operating picture that is aligned around the drivers of revenue.</p>
@@ -136,16 +136,16 @@
             <div class="row ">
 
                <div class="col-lg-7 col-md-6 col-sm-12 text-left" >
-                  <div class="intro-left-alt idealx">
+                  <div class="intro-left-alt idealx wow fadeIn">
                      <h2>Acquire, Retain, Grow<span></span>
                      </h2>
                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare</p>
                   </div>
                </div>
                <div class="col-lg-5 col-md-6 col-sm-12 intro-right-alt idealx padding-0 ">
-                  <p>Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway. Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper.
+                  <p class="wow fadeIn">Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway. Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper.
                      <br><br><br>
-                    <a class="btn-secondary alt">Get Started</a>
+                    <a class="btn-secondary alt wow fadeIn">Get Started</a>
                   </p>
                </div>
             </div>

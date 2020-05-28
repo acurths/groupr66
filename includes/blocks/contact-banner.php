@@ -15,7 +15,7 @@
 <!-- Footer -->
 
   <div class="bottom-banner">
-    <div class="row">
+    <div class="row wow fadeIn">
       <div class="col-md-2">
         <i class="fal fa-paper-plane"></i>
       </div>

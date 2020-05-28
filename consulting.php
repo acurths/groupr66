@@ -88,7 +88,7 @@
          </div>
       </section>
       <div class="color-banner">
-         <div class="row">
+         <div class="row wow fadeIn">
             <div class="col-md-2">
             </div>
             <div class="col-md-10">
@@ -98,7 +98,7 @@
          </div>
       </div>
       <div class="color-banner-cta">
-         <div class="row">
+         <div class="row wow fadeIn">
             <div class="col-md-2">
 
             </div>
@@ -122,36 +122,36 @@
          <div class="row">
             <div class="col-md-2 ">
             </div>
-            <div class="col-md-5 info-block wow fadeIn" data-wow-delay="0.2s">
+            <div class="col-md-5 info-block wow fadeIn" >
                <a href="#">
                   <h4>Disruption<i class="fas fa-long-arrow-right"></i></h4>
                   <p>Increased pressure has created a disruptive landscape.</p>
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/disrupt.jpg" alt="">
                </a>
             </div>
-            <div class="col-md-5 info-block wow fadeIn" data-wow-delay="0.2s">
+            <div class="col-md-5 info-block wow fadeIn" >
                <a href="#">
                   <h4>Trusted Advisor<i class="fas fa-long-arrow-right"></i></h4>
                   <p>Partner with industry veterans with decades of experience.</p>
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/advisor.jpg" alt="">
                </a>
             </div>
          </div>
          <div class="row">
             <div class="col-md-2">
             </div>
-            <div class="col-md-5 info-block wow fadeIn" data-wow-delay="0.2s">
+            <div class="col-md-5 info-block wow fadeIn">
                <a href="#">
                   <h4>Grow Your Business<i class="fas fa-long-arrow-right"></i></h4>
                   <p>Results are the foundation of any successful digital deployment.</p>
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/grow.jpg" alt="">
                </a>
             </div>
-            <div class="col-md-5 info-block wow fadeIn" data-wow-delay="0.2s">
+            <div class="col-md-5 info-block wow fadeIn">
                <a href="ideal-x.php">
                   <h4>IDEALX<i class="fas fa-long-arrow-right"></i></h4>
                   <p>Outpace digital disruption and stay competitive in the rapidly evolving transformative age. </p>
-                  <img src="img/road-1.jpg" alt="">
+                  <img src="img/idealx-small.jpg" alt="">
                </a>
             </div>
          </div>
