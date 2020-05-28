@@ -13,7 +13,7 @@
    require_once('includes/config.php');
 
    // set page vars
-   $page_title = 'Group R66';
+   $page_title = 'Consulting - Group R66 ';
 
    // pull in head
    require_once('includes/blocks/head.php');
@@ -110,10 +110,6 @@
       <div class="info-sections">
          <div class="row">
             <div class="col-md-2">
-              <!-- <div class="wow fadeIn" data-wow-delay="0.1s">
-                <i class="fas fa-long-arrow-right"></i>
-              </div> -->
-
             </div>
             <div class="col-md-10 info-block-wide wow fadeIn">
                <a href="consulting-sub.php">

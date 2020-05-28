@@ -23,7 +23,7 @@
 
 
         </div>
-         <div class="col-lg-2 col-md-2  col-sm-6 col-xs-6 text-left padding-left-0">
+         <div class="col-lg-2 col-md-2  col-sm-6 col-xs-6 text-left">
             <!-- <img src="img/logo-dark.jpg" alt=""> -->
 
               <ul>

@@ -13,7 +13,7 @@
    // require_once('includes/config.php');
 
    // set page vars
-   $page_title = 'Group R66';
+   $page_title = 'Group R66 - Your Partner Along the Digital Highway';
 
    // pull in head
    require_once('includes/blocks/head.php');
