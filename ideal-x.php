@@ -101,7 +101,9 @@
                      <h2 class="wow fadeIn">
                         Customer Revenue Optimization <span style="color: #17A132">(CRO)</span>
                      </h2>
-                     <p class="wow fadeIn">As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
+                     <p class="wow fadeIn">Outpace digital disruption and stay competitive in the rapidly evolving transformative age. Accelerated change creates limitless opportunities, demanding customer insight with focused alignment.<br><br>
+
+IdealX is a revenue-based methodology that optimizes customer experiences. The disruptive economic force of digital requires a new model. Optimize customer equity with data-driven action.</p>
                   </div>
                </div>
                <div class="col-md-4">
@@ -139,11 +141,13 @@
                   <div class="intro-left-alt idealx wow fadeIn">
                      <h2>Acquire, Retain, Grow<span></span>
                      </h2>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare</p>
+                     <p>IDEALX Drivers increase customer equity, reinforce operational effectiveness, enhance marketing KPI’s, and simplify technical alignment. Continuous evaluation, alignment, and advancement ensure the success of digital projects and increase quality of earnings.</p>
                   </div>
                </div>
                <div class="col-lg-5 col-md-6 col-sm-12 intro-right-alt idealx padding-0 ">
-                  <p class="wow fadeIn">Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway. Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper.
+                  <p class="wow fadeIn">Outpace digital disruption and stay competitive in the rapidly evolving transformative age. Accelerated change creates limitless opportunities, demanding customer insight with focused alignment.
+<br><br>
+IdealX is a revenue-based methodology that optimizes customer experiences. The disruptive economic force of digital requires a new model. Optimize customer equity with data-driven action.
                      <br><br><br>
                     <a class="btn-secondary alt wow fadeIn">Get Started</a>
                   </p>
@@ -153,6 +157,7 @@
          <div class="idealx-bottom-bg ">
          </div>
       </section>
-      <!--  -->
+
+
       <?php require_once ('includes/blocks/footer.php'); ?>
    </div>

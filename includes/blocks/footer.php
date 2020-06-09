@@ -67,12 +67,8 @@
 <!-- Modernizr -->
 <script src="js/vendor/modernizr-3.7.1.min.js"></script>
 <!-- Plugins JS file -->
-<script src="js/vendor/scrollspy.js"></script>
 <script src="js/plugins.js"></script>
-
-
 <!-- JS file -->
 <script src="js/main.js"></script>
-<script src="js/jquery.matchHeight.js"></script>
 </body>
 </html>

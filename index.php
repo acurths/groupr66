@@ -56,8 +56,10 @@
    </header>
    <!-- End Header -->
    <!-- Start Homepage Hero -->
-   <section class="hero">
-      <div class="homepage-hero">
+   <section class="hero" >
+      <div class="parallax homepage-hero" data-parallax-bg-image="img/gr66-hp.jpg"
+     data-parallax-speed="1"
+     data-parallax-direction="down">
          <div class="hero-box">
             <div class="hero-intro-text text-center">
                <div class="col-md-12 padding-0">
@@ -77,6 +79,7 @@
                </div>
             </div>
          </div>
+
          <div class="row">
             <div class="col-md-12">
                 <div class=" hero-secondary wow fadeIn">
@@ -90,6 +93,7 @@
          </div>
       </div>
    </section>
+
    <section class="grey-bg pb-100">
       <div class="container-fluid">
          <div class="row ">

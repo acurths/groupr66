@@ -27,6 +27,17 @@ $('#return-to-top').click(function() { // When arrow is clicked
   }, 500);
 });
 
+$('.parallax').parallaxBackground();
+
+
+// $('.homepage-hero').parallaxBackground({
+//   parallaxBgImage    :'../img/gr66-hp.jpg',
+//   parallaxBgPosition :'center center',
+//   parallaxBgRepeat   :'no-repeat',
+//   parallaxBgSize     :'cover',
+//   parallaxSpeed      : 0.5,
+//   parallaxDirection  :'up'
+// });
 
 // ===== Show and Hide ====
 

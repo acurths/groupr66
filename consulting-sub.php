@@ -72,7 +72,7 @@
                </script>
             </div>
             <div class="col-md-10 text-block">
-               <h2>Disruption</h2>
+               <h2>Aquire</h2>
                <p>In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. IdealX is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis platea ut augue morbi semper pulvinar porta volutpat. Amet sed mauris convallis non. Ornare non sagittis, consectetur sit pharetra. Eget maecenas tortor nisi habitasse magna cras aenean. Venenatis et, nec nunc iaculis sollicitudin arcu. Posuere habitant in malesuada posuere nunc adipiscing magna. Ornare tellus egestas gravida rhoncus, sit vehicula nibh.</p>
                <a href="connect.php"><b>Optimize customer equity with data-driven action.</b></a>
             </div>
@@ -101,7 +101,7 @@
             <div class="col-md-2 ">
             </div>
             <div class="col-md-10 text-block">
-               <h2>Optimize Disruption</h2>
+               <h2>Retain</h2>
                <p>In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. IdealX is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis. </p>
             </div>
          </div>
