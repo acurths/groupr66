@@ -38,7 +38,7 @@
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                <li class="active"><a href="consulting.php">Consulting</a></li>
-               <li><a href="ideal-x.php">IDEAL X</a></li>
+               <li><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
@@ -81,9 +81,14 @@
                   </div>
                </div>
                <div class="col-md-5 intro-right padding-0 ">
+                 <video width="100%" height="100%" autoplay loop muted>
+  <source src="video/video.mp4" type="video/mp4">
+</video>
+ <div class="intro-right-padding">
                   <h2>success</h2>
                   <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
                </div>
+                  </div>
             </div>
          </div>
       </section>
@@ -102,60 +107,123 @@
             <div class="col-md-2">
 
             </div>
+
             <div class="col-md-10">
-               <p><a href="#">Embrace A Data-Driven Digital Framework<i class="fas fa-long-arrow-right"></i></a></p>
+                <a href="connect.php">
+               <p>Embrace A Data-Driven Digital Framework<i class="fas fa-long-arrow-right"></i></p>
+               </a>
             </div>
+
          </div>
       </div>
+      <section>
+
+
+
+
       <div class="info-sections">
          <div class="row">
             <div class="col-md-2">
+  <!-- <h6> <i class="fal fa-road"></i></h6> -->
+
+
             </div>
-            <div class="col-md-10 info-block-wide wow fadeIn">
-               <a href="consulting-sub.php">
-                  <h4>Customer Solution Optimization (CsO)<i class="fas fa-long-arrow-right"></i></h4>
-                  <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
-                  <img src="img/cso.jpg" alt="">
+            <div class="col-md-10 info-block-wide wow fadeIn box-one">
+               <a href="group-r66-cso.php">
+                  <h4>Customer Solution Optimization<span> (CsO)</span></h4>
+
+                <div class="img-hover-zoom">
+                  <div class="image-opacity">
+                  <img src="img/winding-road.jpg" alt="" >
+  <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                    </div>
+                    <!-- <div class="hr">
+                      <i class="fas fa-horizontal-rule" ></i>
+                    </div> -->
+
+
+
+
+                    </div>
                </a>
             </div>
          </div>
          <div class="row">
             <div class="col-md-2 ">
+
+
             </div>
-            <div class="col-md-5 info-block wow fadeIn" >
-               <a href="#">
-                  <h4>Disruption<i class="fas fa-long-arrow-right"></i></h4>
-                  <p>Increased pressure has created a disruptive landscape.</p>
+            <div class="col-md-5 info-block wow fadeIn box-two" >
+               <a href="group-r66-disruption.php">
+                  <h4>Disruption</h4>
+
+                    <div class="img-hover-zoom">
+                        <div class="image-opacity">
                   <img src="img/disrupt.jpg" alt="">
+  <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                      </div>
+                      <!-- <div class="hr">
+                        <i class="fas fa-horizontal-rule" ></i>
+                      </div> -->
+
+                  </div>
                </a>
             </div>
-            <div class="col-md-5 info-block wow fadeIn" >
-               <a href="#">
-                  <h4>Trusted Advisor<i class="fas fa-long-arrow-right"></i></h4>
-                  <p>Partner with industry veterans with decades of experience.</p>
+            <div class="col-md-5 info-block wow fadeIn box-two" >
+               <a href="group-r66-trusted-advisor.php">
+                  <h4>Trusted Advisor</h4>
+
+                    <div class="img-hover-zoom">
+                      <div class="image-opacity">
                   <img src="img/advisor.jpg" alt="">
+                    <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                    </div>
+                    <!-- <div class="hr">
+                      <i class="fas fa-horizontal-rule" ></i>
+                    </div> -->
+
+                  </div>
                </a>
             </div>
          </div>
          <div class="row">
             <div class="col-md-2">
+
             </div>
-            <div class="col-md-5 info-block wow fadeIn">
+            <div class="col-md-5 info-block wow fadeIn box-three">
                <a href="#">
-                  <h4>Grow Your Business<i class="fas fa-long-arrow-right"></i></h4>
-                  <p>Results are the foundation of any successful digital deployment.</p>
+                  <h4>Grow Your Business</h4>
+
+                    <div class="img-hover-zoom">
+                      <div class="image-opacity">
                   <img src="img/grow.jpg" alt="">
+              <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                    </div>
+                  <!-- <div class="hr">
+                    <i class="fas fa-horizontal-rule" ></i>
+                  </div> -->
+
+                  </div>
                </a>
             </div>
-            <div class="col-md-5 info-block wow fadeIn">
-               <a href="ideal-x.php">
-                  <h4>IDEALX<i class="fas fa-long-arrow-right"></i></h4>
-                  <p>Outpace digital disruption and stay competitive in the rapidly evolving transformative age. </p>
-                  <img src="img/idealx-small.jpg" alt="">
+            <div class="col-md-5 info-block wow fadeIn box-three">
+               <a href="method.php">
+                  <h4>Method</h4>
+
+                    <div class="img-hover-zoom">
+                      <div class="image-opacity">
+                  <img src="img/method-small.jpg" alt="">
+                    <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                  </div>
+                  <!-- <div class="hr">
+                    <i class="fas fa-horizontal-rule" ></i>
+                  </div> -->
+                </div>
                </a>
             </div>
          </div>
       </div>
+        </section>
       <?php require_once ('includes/blocks/blog-banner.php'); ?>
       <?php require_once ('includes/blocks/contact-banner.php'); ?>
       <?php require_once ('includes/blocks/footer.php'); ?>

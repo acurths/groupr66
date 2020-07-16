@@ -38,10 +38,10 @@
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                <li><a href="consulting.php">Consulting</a></li>
-               <li class="active-green"><a href="ideal-x.php">IDEAL X</a></li>
+               <li class="active-green"><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
-               <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
+               <li class="mailto ideal-x-header-i"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
                   <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
@@ -76,14 +76,17 @@
                   <div class="col-lg-6 col-md-9  padding-0 hero-right-text">
                      <p style="">In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. <b>IDEALX </b>is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model.
                         <br><br>
-                        <a href="#">Optimize customer equity with data-driven action<i class="fas fa-long-arrow-right"></i></a>
+                        <a href="connect.php">Optimize customer equity with data-driven action<i class="fas fa-long-arrow-right"></i></a>
                      </p>
                   </div>
                </div>
             </div>
          </div>
-         <div class="hero idealx-hero-alt ">
+         <div class="hero idealx-hero-alt" >
             <div class="row wow fadeIn">
+              <!-- <video width="100%" height="100%" autoplay loop muted>
+<source src="video/video-2.mp4" type="video/mp4">
+</video> -->
                <div class="col-md-12">
                   <h3>Implementing <br>technology solutions for marketing and sales</h3>
                   <p class="hero-text">Our team of trusted guides will maneuver around the turbulence of the constantly evolving digital highway to help you reach your destination.</p>
@@ -101,34 +104,39 @@
                      <h2 class="wow fadeIn">
                         Customer Revenue Optimization <span style="color: #17A132">(CRO)</span>
                      </h2>
-                     <p class="wow fadeIn">Outpace digital disruption and stay competitive in the rapidly evolving transformative age. Accelerated change creates limitless opportunities, demanding customer insight with focused alignment.<br><br>
-
+                     <p class="wow fadeIn">
 IdealX is a revenue-based methodology that optimizes customer experiences. The disruptive economic force of digital requires a new model. Optimize customer equity with data-driven action.</p>
                   </div>
                </div>
                <div class="col-md-4">
+                <a href="ideal-x-drivers.php">
                   <div class="three-col wow fadeIn" >
                 <i class="fal fa-tachometer-alt-fast"></i>
-                     <h4>Accelerate Acquisition</h4>
+                     <h4>Revenue Drivers</h4>
                      <p>Drive effective digital business transformation with streamlined acquisition of prospects.</p>
-                     <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                   </div>
+                  </a>
                </div>
                <div class="col-md-4">
+              <a href="ideal-x-process.php">
                   <div class="three-col wow fadeIn" data-wow-delay="0.2s">
                      <i class="fal fa-chart-line"></i>
-                     <h4>Maximize Retention</h4>
+                     <h4>The Process</h4>
                      <p>A customer-led strategy fused with high-impactful processes provides a seamless execution for maximum retention.</p>
-                     <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                   </div>
+                  </a>
                </div>
                <div class="col-md-4">
+                 <a href="#">
                   <div class="three-col wow fadeIn" data-wow-delay="0.4s">
                      <i class="fal fa-seedling"></i>
                      <h4>Grow Your Business</h4>
                      <p>Dodge organizational friction with a new operating picture that is aligned around the drivers of revenue.</p>
-                     <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                   </div>
+                  </a>
                </div>
             </div>
          </div>
@@ -144,12 +152,16 @@ IdealX is a revenue-based methodology that optimizes customer experiences. The d
                      <p>IDEALX Drivers increase customer equity, reinforce operational effectiveness, enhance marketing KPI’s, and simplify technical alignment. Continuous evaluation, alignment, and advancement ensure the success of digital projects and increase quality of earnings.</p>
                   </div>
                </div>
-               <div class="col-lg-5 col-md-6 col-sm-12 intro-right-alt idealx padding-0 ">
-                  <p class="wow fadeIn">Outpace digital disruption and stay competitive in the rapidly evolving transformative age. Accelerated change creates limitless opportunities, demanding customer insight with focused alignment.
-<br><br>
-IdealX is a revenue-based methodology that optimizes customer experiences. The disruptive economic force of digital requires a new model. Optimize customer equity with data-driven action.
+               <div class="col-lg-5 col-md-6 col-sm-12 ideal intro-right-alt idealx padding-0 ">
+                  <i class="fas fa-quote-left"></i>
+                  <p class="wow fadeIn">“17% of directors say their boards are sponsoring digital initiatives yet only 16% fully understand how industry dynamics affecting their companies are changing.”
+                    <br>
+                        <br>
+<a href="#">-McKinsey</a>
+
+
                      <br><br><br>
-                    <a class="btn-secondary alt wow fadeIn">Get Started</a>
+                    <a class="btn-secondary alt wow fadeIn">Refine your playbook</a>
                   </p>
                </div>
             </div>

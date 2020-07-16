@@ -38,7 +38,7 @@
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                <li class="active"><a href="consulting.php">Consulting</a></li>
-               <li><a href="ideal-x.php">IDEAL X</a></li>
+               <li><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
@@ -73,7 +73,7 @@
             </div>
             <div class="col-md-10 text-block">
                <h2>Aquire</h2>
-               <p>In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. IdealX is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis platea ut augue morbi semper pulvinar porta volutpat. Amet sed mauris convallis non. Ornare non sagittis, consectetur sit pharetra. Eget maecenas tortor nisi habitasse magna cras aenean. Venenatis et, nec nunc iaculis sollicitudin arcu. Posuere habitant in malesuada posuere nunc adipiscing magna. Ornare tellus egestas gravida rhoncus, sit vehicula nibh.</p>
+               <p>In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. method is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis platea ut augue morbi semper pulvinar porta volutpat. Amet sed mauris convallis non. Ornare non sagittis, consectetur sit pharetra. Eget maecenas tortor nisi habitasse magna cras aenean. Venenatis et, nec nunc iaculis sollicitudin arcu. Posuere habitant in malesuada posuere nunc adipiscing magna. Ornare tellus egestas gravida rhoncus, sit vehicula nibh.</p>
                <a href="connect.php"><b>Optimize customer equity with data-driven action.</b></a>
             </div>
          </div>
@@ -81,17 +81,17 @@
             <div class="col-md-2 ">
             </div>
             <div class="col-md-5 ">
-               <p>In the rapidly evolving transformative age, accelerated change limitless opportunities, demanding customer insight with focused alignment. IdealX is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis platea ut augue morbi semper pulvinar porta volutpat. </p>
+               <p>In the rapidly evolving transformative age, accelerated change limitless opportunities, demanding customer insight with focused alignment. method is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis platea ut augue morbi semper pulvinar porta volutpat. </p>
             </div>
             <div class="col-md-5 ">
-               <p>In the rapidly evolving transformative age, accelerated change limitless opportunities, demanding customer insight with focused alignment. IdealX is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis.</p>
+               <p>In the rapidly evolving transformative age, accelerated change limitless opportunities, demanding customer insight with focused alignment. method is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis.</p>
             </div>
          </div>
          <div class="row">
             <div class="col-md-2 ">
             </div>
             <div class="col-md-10">
-               <img class="subpage-image-wide" src="img/idealx-forest.jpg" alt="">
+               <img class="subpage-image-wide" src="img/method-forest.jpg" alt="">
             </div>
          </div>
          <div class="row">
@@ -102,14 +102,14 @@
             </div>
             <div class="col-md-10 text-block">
                <h2>Retain</h2>
-               <p>In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. IdealX is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis. </p>
+               <p>In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. method is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis. </p>
             </div>
          </div>
          <div class="row">
             <div class="col-md-2 ">
             </div>
             <div class="col-md-5 ">
-               <p>In the rapidly evolving transformative age, accelerated change limitless opportunities, demanding customer insight with focused alignment. IdealX is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis.</p>
+               <p>In the rapidly evolving transformative age, accelerated change limitless opportunities, demanding customer insight with focused alignment. method is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model. Consequat congue mauris adipiscing lorem blandit etiam. Cursus sed in faucibus augue accumsan ut sed. Id sagittis.</p>
                <a href="connect.php"><b>Optimize customer equity with data-driven action.</b></a>
             </div>
             <div class="col-md-5 ">

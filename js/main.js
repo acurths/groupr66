@@ -1,5 +1,15 @@
 $(document).ready(function(){
 
+$('.menu-btn').change(function() {
+  if ($('.menu-btn').is(":checked")) {
+    $('body').css('position','fixed');
+
+  } else {
+    $('body').css('position','relative');
+  }
+});
+
+
 
 // ===== Fades in page on load ====
 // $('body').css('display', 'none');
@@ -12,6 +22,36 @@ if ($('.wow').hasClass('animated')) {
             $(this).removeAttr('style');
             new WOW().init();
 }
+
+//
+// $(".box-one").hover(function(){
+//
+//     $("#arrow").addClass("d-block");
+//
+// }, function () {
+//     $("#arrow").removeClass("d-block");
+// });
+// $(".box-two").hover(function(){
+//
+//     $("#arrow-one").addClass("d-block");
+//
+// }, function () {
+//     $("#arrow-one").removeClass("d-block");
+// });
+//
+// $(".box-three").hover(function(){
+//
+//     $("#arrow-two").addClass("d-block");
+//
+// }, function () {
+//     $("#arrow-two").removeClass("d-block");
+// });
+
+
+
+
+// ===== Parallax BG ====
+$('.parallax').parallaxBackground();
 
 // ===== Scroll to Top ====
 $(window).scroll(function() {
@@ -27,7 +67,9 @@ $('#return-to-top').click(function() { // When arrow is clicked
   }, 500);
 });
 
-$('.parallax').parallaxBackground();
+
+
+
 
 
 // $('.homepage-hero').parallaxBackground({

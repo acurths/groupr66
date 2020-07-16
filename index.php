@@ -21,7 +21,7 @@
    // require_once('includes/blocks/navigation.php');
 
    ?>
-<body>
+<body class="home">
    <!-- Start  Loading Mask-->
    <div id="mask">
    </div>
@@ -38,7 +38,7 @@
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                <li><a href="consulting.php">Consulting</a></li>
-               <li><a href="ideal-x.php">IDEAL X</a></li>
+               <li><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
@@ -58,8 +58,9 @@
    <!-- Start Homepage Hero -->
    <section class="hero" >
       <div class="parallax homepage-hero" data-parallax-bg-image="img/gr66-hp.jpg"
-     data-parallax-speed="1"
+     data-parallax-speed=".3"
      data-parallax-direction="down">
+
          <div class="hero-box">
             <div class="hero-intro-text text-center">
                <div class="col-md-12 padding-0">
@@ -109,32 +110,42 @@
             <!-- <div class="col-md-2">
 
             </div> -->
-            <div class="col-md-4 ">
-               <div class="three-col wow fadeIn">
+           <a href="consulting.php">  <div class="col-md-4 ">
+              <div class="three-col wow fadeIn">
       <i class="fal fa-meteor"></i>
                   <h4>Disruption</h4>
                   <p>Increased pressure has created a disruptive landscape.</p>
-                  <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
+                  <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                </div>
+     </a>
             </div>
-            <div class="col-md-4">
+
+           <a href="consulting.php"><div class="col-md-4">
+
                <div class="three-col wow fadeIn" data-wow-delay="0.2s">
                   <i class="fal fa-handshake-alt"></i>
                   <h4>Trusted Advisor</h4>
                   <p>Partner with industry veterans with decades of experience.</p>
-                  <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
+                  <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                </div>
+   </a>
             </div>
-            <div class="col-md-4">
-               <div class="three-col wow fadeIn" data-wow-delay="0.4s">
+
+             <a href="consulting.php"><div class="col-md-4">
+
+                 <div class="three-col wow fadeIn" data-wow-delay="0.4s">
                   <i class="fal fa-seedling"></i>
                   <h4>Grow Your Business</h4>
                   <p>Results are the foundation of any successful digital deployment.</p>
-                  <p><a href="#">Learn More<i class="fas fa-long-arrow-right"></i></a></p>
+                  <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
+
                </div>
+                </a>
+
             </div>
          </div>
       </div>
    </section>
+
    <?php require_once ('includes/blocks/contact-banner.php'); ?>
    <?php require_once ('includes/blocks/footer.php'); ?>

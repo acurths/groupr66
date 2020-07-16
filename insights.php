@@ -38,7 +38,7 @@
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                <li><a href="consulting.php">Consulting</a></li>
-               <li><a href="ideal-x.php">IDEAL X</a></li>
+               <li><a href="method.php">Method</a></li>
                <li class="active"><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
@@ -55,7 +55,7 @@
       <!-- End Navbar-->
    </header>
    <!-- End Header -->
-   <div class="">
+   <div class="gr66-insights">
       <!-- Start Homepage Hero -->
       <section class="intro">
          <div class="row">
@@ -82,9 +82,12 @@
                   </div>
                </div>
                <div class="col-md-5 intro-right-alt padding-0 ">
-                  <p>Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework to avoid potholes on the constantly evolving digital highway.
+                 <i class="fas fa-quote-left"></i>
+                  <p> "Marketers reported that they are going to market via channel partners 74% of the time, up from 55.4% two years ago. That trend is likely a response to the market’s demand for speed.”
+
+                  <br><br><a href="#">- Forbes</a>
                   </p>
-                  <i class="fal fa-long-arrow-down"></i>
+                  <!-- <i class="fal fa-long-arrow-down"></i> -->
                </div>
             </div>
 
@@ -108,52 +111,67 @@
                <div class="col-lg-4 col-md-12 text-center">
                </div>
               <div class="col-lg-4 col-md-6 wow fadeIn" >
+                <a href="https://www.linkedin.com/pulse/whos-your-data-contexualize-personalize-integrate-kristen-curths/" target="_blank">
                   <img src="img/server.jpg" alt="">
+
                   <div class="three-col">
                      <h4>Who's Your Data? Contextualize, Personalize, and Integrate</h4>
                      <p>Not all data is created equal. You take the good, filter out the bad and there you have, the data to make digital decisions.</p>
-                     <p><a href="https://www.linkedin.com/pulse/whos-your-data-contexualize-personalize-integrate-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>View Article<i class="fas fa-long-arrow-right"></i></p>
+
                   </div>
+                  </a>
                </div>
+
                 <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.2s">
+                  <a href="https://www.linkedin.com/pulse/refuel-2018-digital-transformations-artificial-ai-internet-curths/" target="_blank">
                   <img src="img/digital.jpg" alt="">
                   <div class="three-col">
                      <h4>Refuel 2018 Digital Transformations with (AI), (IOT) & (BI)</h4>
                      <p>Is your digital strategy outdated? Want to be an AI, IoT, BI digital disruption terminator?</p>
-                     <p><a href="https://www.linkedin.com/pulse/refuel-2018-digital-transformations-artificial-ai-internet-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>View Article<i class="fas fa-long-arrow-right"></i></p>
                   </div>
+                  </a>
                </div>
                  <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.4s">
+                   <a href="https://www.linkedin.com/pulse/unify-your-digital-ecosystem-connecting-dots-kristen-curths/" target="_blank">
                   <img src="img/unify.jpg" alt="">
                   <div class="three-col">
                      <h4>Unify Your Digital Ecosystem by Connecting the Dots</h4>
                      <p>The digital landscape has changed. The formation of ecosystems is now evident in digitally mature organizations.</p>
-                     <p><a href="https://www.linkedin.com/pulse/unify-your-digital-ecosystem-connecting-dots-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>View Article<i class="fas fa-long-arrow-right"></i></p>
                   </div>
+                  </a>
                </div>
                <div class="col-lg-4 col-md-6 wow fadeIn" >
+                 <a href="https://www.linkedin.com/pulse/5-reasons-why-picking-solution-partner-like-marriage-kristen-curths/" target="_blank">
                   <img src="img/partner.jpeg" alt="">
                   <div class="three-col" >
                      <h4>5 Reasons Why Picking a Solution Partner is Like a Marriage</h4>
                      <p>Have you ever been involved in a digital marketing project that got derailed? Has your launch date been pushed due to...</p>
-                     <p><a href="https://www.linkedin.com/pulse/5-reasons-why-picking-solution-partner-like-marriage-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>View Article<i class="fas fa-long-arrow-right"></i></p>
                   </div>
+                  </a>
                </div>
                <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.2s">
+                 <a href="https://www.linkedin.com/pulse/what-stopping-you-from-your-digital-transformation-kristen-curths/" target="_blank">
                   <img src="img/transformation.jpeg" alt="">
                   <div class="three-col">
                      <h4>What Is Stopping You From Your Digital Transformation?</h4>
                      <p>The verdict is in. Digital transformation is imperative to every sales and marketing strategy regardless of industry.</p>
-                     <p><a href="https://www.linkedin.com/pulse/what-stopping-you-from-your-digital-transformation-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>View Article<i class="fas fa-long-arrow-right"></i></p>
                   </div>
+                  </a>
                </div>
                <div class="col-lg-4 col-md-6 wow fadeIn" data-wow-delay="0.4s">
+                 <a href="https://www.linkedin.com/pulse/group-r66-looks-back-envision-future-kristen-curths/" target="_blank">
                   <img src="img/future.jpeg" alt="">
                   <div class="three-col">
                      <h4>Group R66 Looks Back To Envision The Futures</h4>
                      <p>The future is here. Self-driving cars, printed human organs, and retinal implants are no longer hypothetical technologies...</p>
-                     <p><a href="https://www.linkedin.com/pulse/group-r66-looks-back-envision-future-kristen-curths/" target="_blank">View Article<i class="fas fa-long-arrow-right"></i></a></p>
+                     <p>View Article<i class="fas fa-long-arrow-right"></i></p>
                   </div>
+                  </a>
                </div>
             </div>
          </div>

@@ -38,7 +38,7 @@
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                <li><a href="consulting.php">Consulting</a></li>
-               <li><a href="ideal-x.php">IDEAL X</a></li>
+               <li><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li class="active"><a href="connect.php">Connect</a></li>
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>

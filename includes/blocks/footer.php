@@ -29,7 +29,7 @@
               <ul>
                  <li><a href="index.php"></i>Home</a></li>
                  <li><a href="consulting.php"></i>Consulting</a></li>
-                 <li><a href="ideal-x.php"></i>IDEALX</a></li>
+                 <li><a href="method.php"></i>Method</a></li>
                  <li><a href="insights.php"></i>Insights</a></li>
                  <li><a href="connect.php"></i>Connnect</a></li>
               </ul>
@@ -38,7 +38,7 @@
          <div class="col-lg-4  col-md-6 col-sm-12 padding-0 social">
             <h5>Social<span></span></h5>
             <div class="row padding-0 social-icons">
-              <div class="col text-left">
+              <div class="col text-left padding-0">
                  <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
               </div>
                <div class="col text-center padding-0">
@@ -48,9 +48,10 @@
                <div class="col text-right padding-0">
                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
                </div>
-               <div class="copyright">
-                  <p>Copyright © 2020 groupr66. Registered trademarks in the united states and reserve the right to hack into your systems whenever, wherever.</p>
-               </div>
+
+            </div>
+            <div class="copyright">
+               <p>Copyright © 2020 groupr66. Registered trademarks in the united states and reserve the right to hack into your systems whenever, wherever.</p>
             </div>
          </div>
       </div>

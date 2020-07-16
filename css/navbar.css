@@ -101,8 +101,8 @@
 }
 
 .header.transparent .social-menu i {
-	font-size: 28px;
-	margin-right: 36px;
+	font-size: 24px;
+	margin-right: 24px;
 	color: #fff;
 }
 
@@ -181,7 +181,7 @@
 }
 
 .header .menu li.active-green {
-	border-bottom: 1px solid #17A132;
+	border-bottom: 1px solid #009CBE;
 	padding-bottom: 36px;
 }
 
@@ -226,6 +226,7 @@
 	padding-top: 60px;
 	position: absolute;
 	top: 103px;
+
 }
 
 .header .menu-btn:checked~.menu-icon .navicon {
@@ -246,6 +247,8 @@
 }
 
 
+
+
 /* ------ Media Queries ------ */
 
 @media (min-width: 992px) {
@@ -255,15 +258,15 @@
 	}
 	.header li a {
 		font-weight: 500;
-		letter-spacing: 1px;
-		font-size: 13px;
+		letter-spacing: .8px;
+		font-size: 14px;
 		color: #1d1d1d;
 		display: block;
 	}
 	.header.transparent li a {
 		font-weight: 500;
-		letter-spacing: 1px;
-		font-size: 13px;
+		letter-spacing: .8px;
+		font-size: 14px;
 		color: #fff;
 		display: block;
 	}
@@ -285,15 +288,18 @@
 
 
 @media (max-width: 991px) {
+
+
+
 	.social-menu {
 		position: absolute;
-		bottom: 150px;
-		left: 30px;
+		bottom: 243px;
+		left: 24px;
 	}
 	.header.transparent .social-menu {
 		position: absolute;
-		bottom: 44px;
-		left: 30px;
+		bottom:143px;
+		left: 24px;
 	}
 	.social-menu.light i {
 		font-size: 28px;
@@ -301,8 +307,8 @@
 		color: #fff;
 	}
 	.social-menu i {
-		font-size: 28px;
-		margin-right: 36px;
+		font-size: 24px;
+		margin-right: 24px;
 		color: #1d1d1d;
 	}
 	.header .menu li.active,
@@ -318,7 +324,7 @@
 		color: #2478B5;
 	}
 	.header .menu li.active-green a {
-		color: #17A132;
+		color: #009CBE;
 	}
 	.header .menu li {
 		padding-bottom: 18px;
@@ -328,7 +334,7 @@
 	}
 	.header li a {
 		font-weight: 800;
-		letter-spacing: 1px;
+		letter-spacing: 1.2px;
 		font-size: 28px;
 		color: #1d1d1d;
 	}
@@ -337,20 +343,20 @@
 	}
 	.header li.mailto {
 		position: absolute;
-		bottom: 128px;
-		right: 0;
+		bottom: 225px;
+		right: 3px;
 		display: none;
 	}
 
 
 	.header.transparent li.mailto {
 		position: absolute;
-		bottom: 30px;
-		right: 0;
+		bottom: 125px;
+		right: 3px;
 		display: none;
 	}
 	.header li.mailto i {
-		font-size: 32px ;
+		font-size: 28px ;
 
 	}
 
