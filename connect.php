@@ -65,7 +65,7 @@
                <h6>Connect</h6>
             </div>
             <div class="col-md-9 right">
-               <h2>Minimize risk with a proven framework<br>to reach your <span>Ideal State</span></h2>
+               <h2>Minimize risk with a proven framework<br> to reach your <span>Ideal State</span></h2>
             </div>
          </div>
       </section>

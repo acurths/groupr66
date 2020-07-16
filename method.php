@@ -65,19 +65,19 @@
 
                  <div class="row">
 
-                 <div class="col-lg-4 col-md-3 padding-0 text-left">
+                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 padding-0 text-left">
  <h6>Method</h6>
   <img src="img/mountain.jpg" alt="">
                  </div>
-                  <div class="col-lg-8 col-md-9  padding-0">
-                     <h1>Outpace digital disruption and <span style="color: #009CBE;">stay competitive</span></h1>
+                  <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12  padding-0">
+                     <h1>Outpace digital disruption and <span style="color: #2A73B8;">stay competitive</span></h1>
                   </div>
                </div>
                </div>
                <div class="row  hp-hero-large padding-0">
-                  <div class="col-lg-6 col-md-3   padding-0">
+                  <div class="col-xl-6 col-lg-4 col-md-12   padding-0">
                   </div>
-                  <div class="col-lg-6 col-md-9  padding-0 hero-right-text">
+                  <div class="col-xl-6 col-lg-8 col-md-12  padding-0 hero-right-text">
                      <p style="">In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. <b>method </b>is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model.
                         <br><br>
                         <a href="connect.php">Optimize customer equity with data-driven action<i class="fas fa-long-arrow-right"></i></a>
@@ -106,7 +106,7 @@
                <div class="col-md-12 text-center">
                   <div class="r66-white-bg ">
                      <h2 class="wow fadeIn">
-                        Customer Revenue Optimization <span style="color: #009CBE">(CRO)</span>
+                        Customer Revenue Optimization <span style="color: #2A73B8">(CRO)</span>
                      </h2>
                      <p class="wow fadeIn">
 method is a revenue-based methodology that optimizes customer experiences. The disruptive economic force of digital requires a new model. Optimize customer equity with data-driven action.</p>

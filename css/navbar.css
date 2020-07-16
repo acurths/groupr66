@@ -181,7 +181,7 @@
 }
 
 .header .menu li.active-green {
-	border-bottom: 1px solid #009CBE;
+	border-bottom: 1px solid #2A73B8;
 	padding-bottom: 36px;
 }
 
@@ -324,7 +324,7 @@
 		color: #2478B5;
 	}
 	.header .menu li.active-green a {
-		color: #009CBE;
+		color: #2A73B8;
 	}
 	.header .menu li {
 		padding-bottom: 18px;

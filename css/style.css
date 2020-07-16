@@ -213,7 +213,7 @@ span {
 }
 
 span.green {
-	color: #009CBE;
+	color: #2A73B8;
 }
 
 h1 {
@@ -436,8 +436,8 @@ a.btn-secondary.alt {
 }
 
 a.btn-secondary.alt:hover {
-	border: 2px solid #009CBE !important;
-	background-color: #009CBE !important;
+	border: 2px solid #2A73B8 !important;
+	background-color: #2A73B8 !important;
 	color: #fff;
 }
 
@@ -1364,15 +1364,16 @@ font-size: 16px;
 font-weight: 700;
 margin-top: 12px;
 text-transform: none;
-padding-left: 13px;
+padding-left: 15px;
 }
 .method-hero .hero-box img {
 	position: absolute;
 	    width: 1000px;
 	    left: -260px;
+			margin-top: 15px;
 }
 .header li.mailto.ideal-x-header-i:hover  i {
-color: #009CBE !important;
+color: #2A73B8 !important;
 }
 .header.transparent li.mailto:hover  i {
 color: #fff !important;
@@ -1408,7 +1409,7 @@ opacity: .6;
 	background-position: 50% 50%;
 	background-color: #fff;
 	object-fit: cover;
-	padding: 11% 0 7% 0;;
+padding: 208px 0 130px 0;
 	overflow: hidden;
 	position: relative;
 }
@@ -1418,7 +1419,7 @@ opacity: .6;
     padding-left: 30px;
 }
 .method .hero a:hover i, .method .hero a:hover, .method .three-col a:hover i, .method .three-col a:hover {
-    color: #009CBE !important;
+    color: #2A73B8 !important;
 }
 .method-hero-alt {
 	height: 100%;
@@ -1452,7 +1453,7 @@ opacity: .6;
 }
 
 .method .three-col h4 {
-	color: #009CBE;
+	color: #2A73B8;
 }
 
 .three-col a {
@@ -1526,7 +1527,7 @@ opacity: .6;
 	color: #2478B5;
 }
 .ideal-x-sub .subpage-section h6:hover i {
-color: #009CBE;
+color: #2A73B8;
 }
 
 .subpage-section a {
@@ -1565,7 +1566,7 @@ color: #009CBE;
     max-width: 417px;
 }
 .ideal-x-sub span, .ideal-x-sub a {
-color: #009CBE;
+color: #2A73B8;
 }
 .subpage-section .row:last-child{
     margin-bottom: 0;
@@ -1780,6 +1781,17 @@ z-index: 2;
 /* Extra large devices (large desktops, 1200px and up) */
 
 @media (max-width: 1200px) {
+	.method-hero .hero-box img {
+    position: absolute;
+    width: 1000px;
+    left: -590px;
+    bottom: -440px;
+}
+	.method-hero {
+
+      padding: 200px 0 140px 0;
+
+}
 	.intro-right-alt.connect {
 		padding: 100px 20px 120px 20px;
 	}
@@ -1832,6 +1844,9 @@ z-index: 2;
 /* Large devices (desktops, 992px and up) */
 
 @media (max-width: 992px) {
+	.method-hero .hero-box img {
+display: none;
+}
 	.subpage-section {
 
     padding: 180px 0 120px 0;
@@ -1869,9 +1884,7 @@ z-index: 2;
 		font-size: 56px !important;
 		margin-left: 30px;
 	}
-	.method-hero {
-		padding: 15% 0 25% 0;
-	}
+
 	.logo-hide-alt {
 		display: block;
 		max-width: 140px;
@@ -1960,7 +1973,7 @@ z-index: 2;
 		text-transform: none !important;
 		text-align: left;
 		color: #1d1d1d;
-		margin: 0 auto;
+		margin-left: 8px;
 		max-width: 860px;
 		font-style: normal !important;
 		font-weight: 800 !important;
@@ -2004,6 +2017,14 @@ z-index: 2;
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
 
 @media (max-width: 768px) {
+	.color-banner h2 br {
+		display: none;
+	}
+	.method-hero-alt i,.hero-secondary i {
+
+    font-size: 36px;
+
+}
 	.steps-img img {
 		width: 80%;
 		margin-bottom: 80px;
@@ -2083,16 +2104,17 @@ display: inline;
 		font-size: 48px !important;
 		padding-right: 30px;
 		margin-left: 015px;
-		margin-top: 80px;
+		margin-top: 48px;
 	}
 	.homepage-hero h1 {
 		max-width: 100%;
 	}
-	.method-hero {
-		padding: 15% 0 15% 0;
-	}
+
 	.method .hero-right-text p {
 		padding-left: 30px;
+	}
+	.method-hero {
+		    padding: 160px 0 80px 0;
 	}
 	.hide {
 		display: none;
@@ -2394,7 +2416,7 @@ height: auto;
 		margin-top: -60px;
 	}
 	.method-hero h1 {
-		padding-top: 30px;
+
 		font-size: 34px !important;
 	}
 	.intro-right-alt.connect {
@@ -2402,6 +2424,10 @@ height: auto;
 	}
 }
 @media (max-width: 424px) {
+	.intro h2 {
+
+    padding-right: 0;
+}
 	.info-block-wide:hover img, .info-block:hover img{
 				height: auto;
 	}
