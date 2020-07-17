@@ -37,7 +37,7 @@
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
-               <li><a href="consulting.php">Consulting</a></li>
+               <li><a href="service.php">Service</a></li>
                <li><a href="method.php">Method</a></li>
                <li class="active"><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>

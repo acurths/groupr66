@@ -37,7 +37,7 @@
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
-               <li><a href="consulting.php">Consulting</a></li>
+               <li><a href="service.php">Service</a></li>
                <li><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li class="active"><a href="connect.php">Connect</a></li>
@@ -65,7 +65,7 @@
                <h6>Connect</h6>
             </div>
             <div class="col-md-9 right">
-               <h2>Minimize risk with a proven framework<br> to reach your <span>Ideal State</span></h2>
+               <h2>Minimize risk with a proven framework<br> to deliver your <span>Ideal State</span></h2>
             </div>
          </div>
       </section>
@@ -76,7 +76,7 @@
                   <div class="intro-left-alt">
                      <h2>Bridge the Gap<span></span>
                      </h2>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare</p>
+                     <p>Enterprises of all shapes and sizes are recognizing the value of data like never before but, becoming data-driven won’t just happen on its own. Proactively undertake efforts to use data and make operational improvements to support delivery of the ideal experience.</p>
                   </div>
                </div>
                <div class="col-lg-5 col-md-6 intro-right-alt connect padding-0 ">

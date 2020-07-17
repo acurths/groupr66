@@ -13,7 +13,7 @@
    require_once('includes/config.php');
 
    // set page vars
-   $page_title = 'Consulting - Group R66 ';
+   $page_title = 'Service - Group R66 ';
 
    // pull in head
    require_once('includes/blocks/head.php');
@@ -37,7 +37,7 @@
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
-               <li class="active"><a href="consulting.php">Consulting</a></li>
+               <li class="active"><a href="service.php">Service</a></li>
                <li><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
@@ -96,9 +96,9 @@
          <div class="row wow fadeIn">
             <div class="col-md-2">
             </div>
-            <div class="col-md-10">
-               <h2>Minimize risk with a proven <br>framework to reach your Ideal State.</h2>
-               <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
+            <div class="col-lg-10 col-md-12">
+               <h2>Repeatedly deliver your Ideal State with focus and alignment.</h2>
+               <p>As business needs adapt to customer expectations, data needs change. Simplify digital marketing deployments and rapidly extract results by aligning business processes, data and technology around the drivers of revenue.</p>
             </div>
          </div>
       </div>
@@ -108,7 +108,7 @@
 
             </div>
 
-            <div class="col-md-10">
+            <div class="col-lg-10 col-md-12">
                 <a href="connect.php">
                <p>Embrace A Data-Driven Digital Framework<i class="fas fa-long-arrow-right"></i></p>
                </a>
@@ -128,13 +128,13 @@
 
 
             </div>
-            <div class="col-md-10 info-block-wide wow fadeIn box-one">
+            <div class="col-lg-10 col-md-12 info-block-wide wow fadeIn box-one">
                <a href="group-r66-cso.php">
-                  <h4>Customer Solution Optimization<span> (CsO)</span></h4>
+                  <h4>Group R66 <span>Consulting Services </span></h4>
 
                 <div class="img-hover-zoom">
                   <div class="image-opacity">
-                  <img src="img/winding-road.jpg" alt="" >
+                  <img src="img/highway-11.jpg" alt="" >
   <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
                     </div>
                     <!-- <div class="hr">
@@ -153,14 +153,15 @@
 
 
             </div>
-            <div class="col-md-5 info-block wow fadeIn box-two" >
+            <div class="col-lg-5 col-md-12 info-block wow fadeIn box-two" >
                <a href="group-r66-disruption.php">
-                  <h4>Disruption</h4>
+                  <h4>The Ideal State</h4>
 
                     <div class="img-hover-zoom">
                         <div class="image-opacity">
-                  <img src="img/disrupt.jpg" alt="">
-  <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                  <img src="img/highway-12.jpg" alt="">
+  <p>The disruptive force of digital requires a new model. Customers are now in the driver's seat and expect a premier experience in exchange for loyalty.
+<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
                       </div>
                       <!-- <div class="hr">
                         <i class="fas fa-horizontal-rule" ></i>
@@ -169,14 +170,15 @@
                   </div>
                </a>
             </div>
-            <div class="col-md-5 info-block wow fadeIn box-two" >
+            <div class="col-lg-5 col-md-12 info-block wow fadeIn box-two" >
                <a href="group-r66-trusted-advisor.php">
-                  <h4>Trusted Advisor</h4>
+                  <h4>Grow Your Business</h4>
 
                     <div class="img-hover-zoom">
                       <div class="image-opacity">
-                  <img src="img/advisor.jpg" alt="">
-                    <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                  <img src="img/highway-9.jpg" alt="">
+                    <p>Create a new operating picture devoid of past organizational friction, driven by insight, automation, and actionable intelligence.
+<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
                     </div>
                     <!-- <div class="hr">
                       <i class="fas fa-horizontal-rule" ></i>
@@ -190,14 +192,14 @@
             <div class="col-md-2">
 
             </div>
-            <div class="col-md-5 info-block wow fadeIn box-three">
+            <div class="col-lg-5 col-md-12 info-block wow fadeIn box-three">
                <a href="#">
-                  <h4>Grow Your Business</h4>
+                  <h4>Organizational Machining</h4>
 
                     <div class="img-hover-zoom">
                       <div class="image-opacity">
-                  <img src="img/grow.jpg" alt="">
-              <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                  <img src="img/highway-10.jpg" alt="">
+              <p>The best companies run like machines. Machine the organization by identifying the levers and gears that produce the ideal experience again and again.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
                     </div>
                   <!-- <div class="hr">
                     <i class="fas fa-horizontal-rule" ></i>
@@ -206,14 +208,14 @@
                   </div>
                </a>
             </div>
-            <div class="col-md-5 info-block wow fadeIn box-three">
+            <div class="col-lg-5 col-md-12 info-block wow fadeIn box-three">
                <a href="method.php">
-                  <h4>Method</h4>
+                  <h4>Repeatable Process</h4>
 
                     <div class="img-hover-zoom">
                       <div class="image-opacity">
-                  <img src="img/method-small.jpg" alt="">
-                    <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+                  <img src="img/highway-8.jpg" alt="">
+                    <p>A customer-led strategy fused with high-impact data provides a foundation for seamless and repeatable delivery of the ideal experience.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
                   </div>
                   <!-- <div class="hr">
                     <i class="fas fa-horizontal-rule" ></i>

@@ -37,7 +37,7 @@
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
-               <li><a href="consulting.php">Consulting</a></li>
+               <li><a href="service.php">Service</a></li>
                <li><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
@@ -72,8 +72,7 @@
                   <img src="img/R66.png" alt="">
                </div>
                <div class="col-lg-5 col-md-6  padding-0 hero-right-text">
-                  <p style="">Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. We utilize our proprietary methodology along with our tenure to provide a framework
-                     to avoid potholes on the constantly evolving digital highway.
+                  <p style="">Group R66 is a purpose-built service group driven to align clients around the elements that define the ideal experience. We utilize our proprietary framework to rapidly move clients through a service methodology that identifies the data needed to realize maximum revenue potential.
                      <br><br>
                      <a href="#">Refeul your succes with data-driven action <i class="fas fa-long-arrow-right"></i></a>
                   </p>
@@ -85,8 +84,8 @@
             <div class="col-md-12">
                 <div class=" hero-secondary wow fadeIn">
 
-               <h3>Revenue based services that optimize customer experiences.</h3>
-               <p class="hero-text">GR66 has been implementing technology solutions for marketing and sales since the inception of, “digital marketing”</p>
+               <h3>Revenue based services that optimize quality of earnings.</h3>
+               <p class="hero-text">GR66 has been implementing digital solutions for marketing and sales before “digital marketing” was a thing.</p>
                <br><br>
                <i class="fal fa-long-arrow-down"></i>
             </div>
@@ -102,41 +101,45 @@
             <div class="col-md-12 text-left">
                <div class="r66-white-bg">
                   <h2 class="wow fadeIn">
-                     Customer Solution Optimization <span>(CSO)</span>
+                    Internal Data Monetization <span>(IDM)</span>
                   </h2>
-                  <p class="wow fadeIn">As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
+                  <p class="wow fadeIn">For data-driven organizations, data is used internally to create actionable intelligence and to enable delivery of an ideal state, resulting in improved earnings, cost savings, and avoidance of risk. </p>
                </div>
             </div>
             <!-- <div class="col-md-2">
 
             </div> -->
-           <a href="consulting.php">  <div class="col-md-4 ">
+           <a href="service.php">  <div class="col-md-4 ">
               <div class="three-col wow fadeIn">
-      <i class="fal fa-meteor"></i>
-                  <h4>Disruption</h4>
-                  <p>Increased pressure has created a disruptive landscape.</p>
+      <!-- <i class="fal fa-road"></i> -->
+      <i class="fal fa-chart-network"></i>
+      <!-- <i class="fal fa-route-interstate"></i> -->
+                  <h4>Operational Excellence</h4>
+                  <p>Execute more consistently and reliably than the competition. </p>
                   <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                </div>
      </a>
             </div>
 
-           <a href="consulting.php"><div class="col-md-4">
+           <a href="service.php"><div class="col-md-4">
 
                <div class="three-col wow fadeIn" data-wow-delay="0.2s">
-                  <i class="fal fa-handshake-alt"></i>
-                  <h4>Trusted Advisor</h4>
-                  <p>Partner with industry veterans with decades of experience.</p>
+                  <!-- <i class="fal fa-handshake-alt"></i> -->
+                  <i class="fal fa-hands-helping"></i>
+                  <h4>Customer Experience</h4>
+                  <p>They demand more personalization and you better deliver, every time. </p>
                   <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                </div>
    </a>
             </div>
 
-             <a href="consulting.php"><div class="col-md-4">
+             <a href="service.php"><div class="col-md-4">
 
                  <div class="three-col wow fadeIn" data-wow-delay="0.4s">
-                  <i class="fal fa-seedling"></i>
-                  <h4>Grow Your Business</h4>
-                  <p>Results are the foundation of any successful digital deployment.</p>
+                  <!-- <i class="fal fa-mountain"></i> -->
+                  <i class="fal fa-mountains"></i>
+                  <h4>The Ideal State</h4>
+                  <p>Ever evolving and maturing in the use of data to drive revenue..</p>
                   <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
 
                </div>

@@ -497,7 +497,7 @@ a.btn-secondary.alt:hover {
 	color: #FFFFFF;
 	text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.30);
 	margin-top: 100px;
-	max-width: 833px;
+	max-width: 750px;
 	font-family: Nunito Sans;
 	font-style: normal;
 	font-weight: 800;
@@ -534,7 +534,7 @@ a.btn-secondary.alt:hover {
 	font-size: 18px;
 	color: #FFFFFF;
 	font-weight: 300;
-	max-width: 780px;
+	max-width: 720px;
 }
 
 .hero-box p {
@@ -632,7 +632,7 @@ p.hero-text {
     margin: 0 auto;
     font-size: 18px;
     text-align: center;
-    max-width: 980px;
+    max-width: 884px;
 }
 
 .three-col {
@@ -696,7 +696,7 @@ a:hover .three-col p i {
 }
 
 .three-col i {
-	font-size: 64px;
+	font-size: 54px;
 	margin-bottom: 48px;
 }
 
@@ -895,7 +895,7 @@ z-index: 9;
 
 .intro-right-alt.method {
 	width: 100%;
-background-color: #005C71;
+background-color: #125E8A;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
@@ -913,8 +913,8 @@ background-color: #005C71;
 .intro-right-alt.method i {
 	margin-left: 8px;
 	font-size: 48px;
-	color: #fff;
-	opacity: .3;
+	color: #95cbff;
+
 }
 
 .intro-right-alt.method a {
@@ -1099,7 +1099,7 @@ z-index: 2;
 }
 
 .bottom-banner p {
-	max-width: 620px;
+	max-width: 610px;
 	color: #fff;
 	text-transform: none;
 	margin-bottom: 28px;
@@ -1160,7 +1160,7 @@ z-index: 2;
 
 .color-banner h2 {
 	color: #fff;
-	max-width: 80%;
+	max-width: 700px;
 	margin-bottom: 36px;
 }
 
@@ -1483,12 +1483,12 @@ padding: 208px 0 130px 0;
 }
 
 .method-bottom-bg {
-	height: 420px;
+	height: 580px;
 	width: 100%;
-	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/6.jpg);
+	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.3)), url(../img/coast-highway.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: 50% 10%;
+	background-position: 50% 40%;
 	background-color: #fff;
 	object-fit: cover;
 	background-attachment: fixed;
@@ -1844,6 +1844,9 @@ z-index: 2;
 /* Large devices (desktops, 992px and up) */
 
 @media (max-width: 992px) {
+	.method .hero-right-text p {
+    padding-left: 30px;
+}
 	.method-hero .hero-box img {
 display: none;
 }

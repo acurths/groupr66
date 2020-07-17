@@ -28,7 +28,7 @@
 
               <ul>
                  <li><a href="index.php"></i>Home</a></li>
-                 <li><a href="consulting.php"></i>Consulting</a></li>
+                 <li><a href="service.php"></i>Service</a></li>
                  <li><a href="method.php"></i>Method</a></li>
                  <li><a href="insights.php"></i>Insights</a></li>
                  <li><a href="connect.php"></i>Connnect</a></li>

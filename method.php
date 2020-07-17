@@ -37,7 +37,7 @@
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
-               <li><a href="consulting.php">Consulting</a></li>
+               <li><a href="service.php">Service</a></li>
                <li class="active-green"><a href="method.php">Method</a></li>
                <li><a href="insights.php">Insights</a></li>
                <li><a href="connect.php">Connect</a></li>
@@ -78,7 +78,7 @@
                   <div class="col-xl-6 col-lg-4 col-md-12   padding-0">
                   </div>
                   <div class="col-xl-6 col-lg-8 col-md-12  padding-0 hero-right-text">
-                     <p style="">In the rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight with focused alignment. <b>method </b>is a revenue-based framework that optimizes customer experiences. The disruptive economic force of digital requires a new model.
+                     <p style="">In this rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight and leadership alignment. IDEALX is a revenue-based framework designed to focus leaders around their drivers of revenue. The disruptive economic force of digital requires a new model. This is it.
                         <br><br>
                         <a href="connect.php">Optimize customer equity with data-driven action<i class="fas fa-long-arrow-right"></i></a>
                      </p>
@@ -92,7 +92,8 @@
 <source src="video/video-2.mp4" type="video/mp4">
 </video> -->
                <div class="col-md-12">
-                  <h3>Implementing <br>technology solutions for marketing and sales</h3>
+                  <h3>Technology solution planning for marketing, sales, and operations.
+</h3>
                   <p class="hero-text">Our team of trusted guides will maneuver around the turbulence of the constantly evolving digital highway to help you reach your destination.</p>
                   <br><br>
                   <i class="fal fa-long-arrow-down"></i>
@@ -106,18 +107,17 @@
                <div class="col-md-12 text-center">
                   <div class="r66-white-bg ">
                      <h2 class="wow fadeIn">
-                        Customer Revenue Optimization <span style="color: #2A73B8">(CRO)</span>
+                        Organizational Machining Framework <span style="color: #2A73B8">(OMF)</span>
                      </h2>
-                     <p class="wow fadeIn">
-method is a revenue-based methodology that optimizes customer experiences. The disruptive economic force of digital requires a new model. Optimize customer equity with data-driven action.</p>
+                     <p class="wow fadeIn">The Ideal State is a revenue-based framework that focuses and aligns organizational leadership around the drivers of revenue. The disruptive economic force of digital requires a new model. Optimize customer equity using data to drive your new machine.</p>
                   </div>
                </div>
                <div class="col-md-4">
                 <a href="ideal-x-drivers.php">
                   <div class="three-col wow fadeIn" >
-                <i class="fal fa-tachometer-alt-fast"></i>
-                     <h4>Revenue Drivers</h4>
-                     <p>Drive effective digital business transformation with streamlined acquisition of prospects.</p>
+            <i class="fal fa-brain"></i>
+                     <h4>Machine Learning</h4>
+                     <p>Drive effective transformation by building feedback into the organizational machine.</p>
                      <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                   </div>
                   </a>
@@ -125,9 +125,9 @@ method is a revenue-based methodology that optimizes customer experiences. The d
                <div class="col-md-4">
               <a href="ideal-x-process.php">
                   <div class="three-col wow fadeIn" data-wow-delay="0.2s">
-                     <i class="fal fa-chart-line"></i>
-                     <h4>The Process</h4>
-                     <p>A customer-led strategy fused with high-impactful processes provides a seamless execution for maximum retention.</p>
+                     <i class="fal fa-repeat"></i>
+                     <h4>Repeatable Process</h4>
+                     <p>A customer-led strategy fused with high-impact data provides seamless execution. </p>
                      <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                   </div>
                   </a>
@@ -137,7 +137,7 @@ method is a revenue-based methodology that optimizes customer experiences. The d
                   <div class="three-col wow fadeIn" data-wow-delay="0.4s">
                      <i class="fal fa-seedling"></i>
                      <h4>Grow Your Business</h4>
-                     <p>Dodge organizational friction with a new operating picture that is aligned around the drivers of revenue.</p>
+                     <p>Dodge organizational friction with a new operating picture aligned around customers. </p>
                      <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                   </div>
                   </a>
@@ -153,7 +153,8 @@ method is a revenue-based methodology that optimizes customer experiences. The d
                   <div class="intro-left-alt method wow fadeIn">
                      <h2>Acquire, Retain, Grow<span></span>
                      </h2>
-                     <p>method Drivers increase customer equity, reinforce operational effectiveness, enhance marketing KPI’s, and simplify technical alignment. Continuous evaluation, alignment, and advancement ensure the success of digital projects and increase quality of earnings.</p>
+                     <p>The Ideal State drivers improve customer equity, reinforce operational effectiveness, enhance marketing metrics, and simplify technical deployments. Continuous evaluation, alignment, and advancement ensures the success of digital projects and increases quality of earnings.
+</p>
                   </div>
                </div>
                <div class="col-lg-5 col-md-6 col-sm-12 ideal intro-right-alt method padding-0 ">
