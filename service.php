@@ -2,7 +2,7 @@
    /**
     *
     *
-    * index.php
+    * service.php
     * @author     Austin Curths
     * @created    5/15/2020
     * @copyright  Copyright (c)  groupr66 (https://groupr66.com)
@@ -21,7 +21,7 @@
    // require_once('includes/blocks/navigation.php');
 
    ?>
-<body>
+<body class="service">
    <!-- Start  Loading Mask-->
    <div id="mask">
    </div>
@@ -37,9 +37,9 @@
             <input class="menu-btn" type="checkbox" id="menu-btn" />
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
-               <li class="active"><a href="service.php">Service</a></li>
+               <li class="active"><a style="cursor: default;">Service</a></li>
                <li><a href="method.php">Method</a></li>
-               <li><a href="insights.php">Insights</a></li>
+               <li><a href="insight.php">Insight</a></li>
                <li><a href="connect.php">Connect</a></li>
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
@@ -63,7 +63,7 @@
                <i class="fal fa-paper-plane"></i>
                </div> -->
             <div class="col-md-3 ">
-               <h6>Consulting</h6>
+               <h6>Service</h6>
             </div>
             <div class="col-md-9 right">
                <h2>Helping align clients around the <br>elements of <span>complex digital initiatives</span></h2>
@@ -86,7 +86,7 @@
 </video>
  <div class="intro-right-padding">
                   <h2>success</h2>
-                  <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.</p>
+                  <p>In the transition from legacy to digital operations, a new way of thinking is required. We have more technological reach than ever, yet still struggle to monetize data by delivering an engaging customer experience.</p>
                </div>
                   </div>
             </div>
@@ -97,8 +97,9 @@
             <div class="col-md-2">
             </div>
             <div class="col-lg-10 col-md-12">
-               <h2>Repeatedly deliver your Ideal State with focus and alignment.</h2>
-               <p>As business needs adapt to customer expectations, data needs change. Simplify digital marketing deployments and rapidly extract results by aligning business processes, data and technology around the drivers of revenue.</p>
+               <h2>Repeatedly deliver your ideal state with focus and alignment.</h2>
+               <p>GR66 identifies the organizational data relative to delivering the ideal experience and uses the APEX method to quickly align and focus leadership around these drivers of revenue.</p>
+               <p>Data and analytics are changing the way business is done. Data is now treated as a true asset with an actual monetary value assigned to it, just like physical assets, intellectual property, and brand equity. Before companies can make meaningful strides with data monetization, they must first set up the fundamental building blocks with APEX.</p>
             </div>
          </div>
       </div>
@@ -120,112 +121,71 @@
 
 
 
+        <section class="grey-bg services">
+           <div class="container-fluid">
+              <div class="row ">
+                 <div class="col-lg-2 col-md-12">
+                 </div>
+                <a href="method.php">  <div class="col-lg-5 col-md-6 padding-left-0 ">
+                   <div class="three-col wow fadeIn">
 
-      <div class="info-sections">
-         <div class="row">
-            <div class="col-md-2">
-  <!-- <h6> <i class="fal fa-road"></i></h6> -->
 
+           <img src="img/ideal-state.jpg" alt="">
 
-            </div>
-            <div class="col-lg-10 col-md-12 info-block-wide wow fadeIn box-one">
-               <a href="group-r66-cso.php">
-                  <h4>Group R66 <span>Consulting Services </span></h4>
-
-                <div class="img-hover-zoom">
-                  <div class="image-opacity">
-                  <img src="img/highway-11.jpg" alt="" >
-  <p>As business needs adapt to customers, application needs change. Simplify digital marketing deployments and rapidly extract results by aligning business and technology solutions around the drivers of revenue.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+           <div class="services-text">
+             <h4>APEX</h4>
+             <p>The disruptive force of digital requires a new model. Customers are now in the driver's seat and expect a premier experience in exchange for loyalty.</p>
+             <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                     </div>
-                    <!-- <div class="hr">
-                      <i class="fas fa-horizontal-rule" ></i>
-                    </div> -->
-
-
-
-
                     </div>
-               </a>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-md-2 ">
 
+          </a>
+              </div>
+                 <a href="apex-method.php">  <div class="col-lg-5 col-md-6 padding-right-0">
+                    <div class="three-col wow fadeIn" data-wow-delay="0.2s">
 
-            </div>
-            <div class="col-lg-5 col-md-12 info-block wow fadeIn box-two" >
-               <a href="group-r66-disruption.php">
-                  <h4>The Ideal State</h4>
+            <img src="img/grow-1.jpg" alt="">
 
-                    <div class="img-hover-zoom">
-                        <div class="image-opacity">
-                  <img src="img/highway-12.jpg" alt="">
-  <p>The disruptive force of digital requires a new model. Customers are now in the driver's seat and expect a premier experience in exchange for loyalty.
-<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
-                      </div>
-                      <!-- <div class="hr">
-                        <i class="fas fa-horizontal-rule" ></i>
-                      </div> -->
-
-                  </div>
-               </a>
-            </div>
-            <div class="col-lg-5 col-md-12 info-block wow fadeIn box-two" >
-               <a href="group-r66-trusted-advisor.php">
-                  <h4>Grow Your Business</h4>
-
-                    <div class="img-hover-zoom">
-                      <div class="image-opacity">
-                  <img src="img/highway-9.jpg" alt="">
-                    <p>Create a new operating picture devoid of past organizational friction, driven by insight, automation, and actionable intelligence.
-<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+            <div class="services-text">
+                        <h4>Grow your Business</h4>
+                        <p>Create a new operating picture devoid of past organizational friction, driven by insight, automation, and actionable intelligence.</p>
+                        <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
+                     </div>
+                     </div>
+           </a>
+                 </div>
+                    <div class="col-lg-2 col-md-12">
                     </div>
-                    <!-- <div class="hr">
-                      <i class="fas fa-horizontal-rule" ></i>
-                    </div> -->
+                   <a href="apex-method.php">  <div class="col-lg-5 col-md-6 padding-left-0">
+                      <div class="three-col wow fadeIn " >
 
-                  </div>
-               </a>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-md-2">
+              <img src="img/machine.jpg" alt="">
 
-            </div>
-            <div class="col-lg-5 col-md-12 info-block wow fadeIn box-three">
-               <a href="#">
-                  <h4>Organizational Machining</h4>
-
-                    <div class="img-hover-zoom">
-                      <div class="image-opacity">
-                  <img src="img/highway-10.jpg" alt="">
-              <p>The best companies run like machines. Machine the organization by identifying the levers and gears that produce the ideal experience again and again.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
+              <div class="services-text">
+                          <h4>Organizational Machining</h4>
+                          <p>The best companies run like machines. Machine the organization by identifying the levers and gears that produce the ideal experience again and again.</p>
+                          <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
+                       </div>
+                       </div>
+             </a>
                     </div>
-                  <!-- <div class="hr">
-                    <i class="fas fa-horizontal-rule" ></i>
-                  </div> -->
+                    <a href="apex-method.php">  <div class="col-lg-5 col-md-6 padding-right-0">
+                       <div class="three-col wow fadeIn" data-wow-delay="0.2s">
 
-                  </div>
-               </a>
-            </div>
-            <div class="col-lg-5 col-md-12 info-block wow fadeIn box-three">
-               <a href="method.php">
-                  <h4>Repeatable Process</h4>
+               <img src="img/advisor.jpg" alt="">
 
-                    <div class="img-hover-zoom">
-                      <div class="image-opacity">
-                  <img src="img/highway-8.jpg" alt="">
-                    <p>A customer-led strategy fused with high-impact data provides a foundation for seamless and repeatable delivery of the ideal experience.<br><br><a href="ideal-x-drivers.php"><b>Learn More</b><i class="fas fa-long-arrow-right"></i></a></p>
-                  </div>
-                  <!-- <div class="hr">
-                    <i class="fas fa-horizontal-rule" ></i>
-                  </div> -->
-                </div>
-               </a>
-            </div>
-         </div>
-      </div>
+               <div class="services-text">
+                           <h4>Repeatable Process</h4>
+                           <p>A customer-led strategy fused with high-impact data provides a foundation for seamless and repeatable delivery of the ideal experience.</p>
+                           <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
+                        </div>
+                        </div>
+              </a>
+                 </div>
+              </div>
+           </div>
         </section>
+
       <?php require_once ('includes/blocks/blog-banner.php'); ?>
       <?php require_once ('includes/blocks/contact-banner.php'); ?>
       <?php require_once ('includes/blocks/footer.php'); ?>

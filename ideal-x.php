@@ -38,8 +38,8 @@
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                <li><a href="service.php">Service</a></li>
-               <li class="active-green"><a href="method.php">Method</a></li>
-               <li><a href="insights.php">Insights</a></li>
+               <li class="active-green"><a>Method</a></li>
+               <li><a href="insight.php">Insight</a></li>
                <li><a href="connect.php">Connect</a></li>
                <li class="mailto ideal-x-header-i"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">

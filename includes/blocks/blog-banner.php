@@ -3,7 +3,7 @@
 /**
  *
  *
- * footer.php
+ * blog-banner.php
  * @author     Austin Curths
  * @created    5/15/2020
  * @copyright  Copyright (c)  groupr66 (https://groupr66.com)
@@ -24,7 +24,7 @@
     </div>
     <div class="col-md-6 right">
       <p>Check out our latest insights for an up to date look at GR66 and other industry news.</p>
-        <a href="insights.php">
+        <a href="insight.php">
           <h6>Go to our blog page<i class="fas fa-long-arrow-right"></i></h6>
         </a>
     </div>

@@ -2,7 +2,7 @@
    /**
     *
     *
-    * index.php
+    * connect.php
     * @author     Austin Curths
     * @created    5/15/2020
     * @copyright  Copyright (c)  groupr66 (https://groupr66.com)
@@ -21,6 +21,7 @@
    // require_once('includes/blocks/navigation.php');
 
    ?>
+
 <body>
    <!-- Start  Loading Mask-->
    <div id="mask">
@@ -39,8 +40,8 @@
             <ul class="menu">
                <li><a href="service.php">Service</a></li>
                <li><a href="method.php">Method</a></li>
-               <li><a href="insights.php">Insights</a></li>
-               <li class="active"><a href="connect.php">Connect</a></li>
+               <li><a href="insight.php">Insight</a></li>
+               <li class="active"><a style="cursor: default;">Connect</a></li>
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
                   <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
@@ -86,16 +87,16 @@
                         <!--Grid column-->
                         <div class="col-md-6">
                            <div class="md-form mb-0">
-                              <input type="text" id="name" name="name" class="form-control">
-                              <label for="name" class="">Your name</label>
+                              <input type="text" id="name" name="name" class="form-control" required>
+                              <label for="name" class="">Your name *</label>
                            </div>
                         </div>
                         <!--Grid column-->
                         <!--Grid column-->
                         <div class="col-md-6">
                            <div class="md-form mb-0">
-                              <input type="text" id="email" name="email" class="form-control">
-                              <label for="email" class="">Your email</label>
+                              <input type="text" id="email" name="email" class="form-control" required>
+                              <label for="email" class="">Your email *</label>
                            </div>
                         </div>
                         <!--Grid column-->
@@ -133,5 +134,8 @@
          <div class="hero insights-bg alt">
          </div>
       </section>
+
+            <?php require_once ('includes/blocks/blog-banner.php'); ?>
+            <?php require_once ('includes/blocks/contact-banner.php'); ?>
       <?php require_once ('includes/blocks/footer.php'); ?>
    </div>

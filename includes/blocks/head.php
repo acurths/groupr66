@@ -14,8 +14,8 @@ $defaultOgData = array(
     'title'         => $page_title . TITLE_SUFFIX,
     'description'   => 'Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. ',
     'url'           => BASE_URL . strtok($_SERVER["REQUEST_URI"],'?'),
-    'image'         => BASE_URL . 'img/_____.png',
-    'image-secure'  => BASE_URL . 'img/_____.png',
+    'image'         => BASE_URL . 'img/logowide.png',
+    'image-secure'  => BASE_URL . 'img/logowide.png',
     'image-width'   => 206,
     'image-height'  => 260,
 );
@@ -23,7 +23,9 @@ $defaultOgData = array(
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
+
   <!-- Required Meta Tags -->
+  <meta name="author" content="Austin CurthsChaos Collective Designs">
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
@@ -39,23 +41,23 @@ $defaultOgData = array(
   <!-- Material Design Bootstrap -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.7.4/css/mdb.min.css" rel="stylesheet">
   <!-- Normalize CSS -->
-  <link rel="stylesheet" href="css/normalize.css">
-  <!-- Main Stylesheet -->
-  <!-- <link rel="stylesheet" type="text/css" href="css/style_main.css"> -->
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <!-- Navbar Stylesheet -->
-  <link rel="stylesheet" type="text/css" href="css/navbar.css">
+  <!-- <link rel="stylesheet" href="css/normalize.css"> -->
   <!-- Fontawesome 5 Pro -->
   <link href="fontawesome/css/all.css" rel="stylesheet">
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
 
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet"> -->
+    <!-- Main Stylesheet -->
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <!-- Navbar Stylesheet -->
+  <link rel="stylesheet" type="text/css" href="css/navbar.css">
   <!-- JQuery -->
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   <script src="https://cdn.jsdelivr.net/npm/paroller.js/dist/jquery.paroller.min.js"></script>
-    <script src="js/vendor/parallax-background.min.js"></script>
+
+  <script src="js/vendor/parallax-background.min.js"></script>
 </head>

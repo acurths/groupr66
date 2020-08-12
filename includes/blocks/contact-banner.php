@@ -3,7 +3,7 @@
 /**
  *
  *
- * footer.php
+ * contact-banner.php
  * @author     Austin Curths
  * @created    5/15/2020
  * @copyright  Copyright (c)  groupr66 (https://groupr66.com)

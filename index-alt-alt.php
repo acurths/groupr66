@@ -22,6 +22,10 @@
 
    ?>
 <body class="home">
+   <!-- Start  Loading Mask-->
+   <div id="mask">
+   </div>
+   <!-- End Loading Mask-->
    <!-- Header -->
    <header>
       <!-- Scroll to top button -->
@@ -54,7 +58,7 @@
    <!-- Start Homepage Hero -->
    <section class="hero" >
       <div class="parallax homepage-hero" data-parallax-bg-image="img/gr66-hp.jpg"
-     data-parallax-speed=".5"
+     data-parallax-speed=".3"
      data-parallax-direction="down">
 
          <div class="hero-box">
@@ -69,9 +73,9 @@
                   <img src="img/R66.png" alt="">
                </div>
                <div class="col-lg-5 col-md-6  padding-0 hero-right-text">
-                  <p style="">Group R66 is a purpose-built service group driven to align clients around the data that defines the ideal customer experience. We utilize our proprietary framework to rapidly move clients through a service methodology that identifies the data needed to realize maximum revenue potential.
+                  <p style="">Group R66 is a purpose-built service group driven to align clients around the elements that define the ideal experience. We utilize our proprietary framework to rapidly move clients through a service methodology that identifies the data needed to realize maximum revenue potential.
                      <br><br>
-                     <a href="connect.php">Refeul your succes with data-driven action <i class="fas fa-long-arrow-right"></i></a>
+                     <a href="#">Refeul your succes with data-driven action <i class="fas fa-long-arrow-right"></i></a>
                   </p>
                </div>
             </div>
@@ -92,6 +96,7 @@
    </section>
 
    <section class="grey-bg pb-100">
+      <div class="services">
       <div class="container-fluid">
          <div class="row ">
 
@@ -106,47 +111,56 @@
             <!-- <div class="col-md-2">
 
             </div> -->
-           <a href="service.php">  <div class="col-md-4 ">
-              <div class="three-col wow fadeIn">
-      <!-- <i class="fal fa-road"></i> -->
-      <i class="fal fa-chart-network"></i>
-      <!-- <i class="fal fa-route-interstate"></i> -->
-                  <h4>Operational Excellence</h4>
-                  <p>Execute more consistently and reliably than the competition. </p>
-                  <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
-               </div>
-     </a>
+            <a href="service.php">  <div class="col-lg-4 col-md-4 ">
+               <div class="three-col wow fadeIn">
+
+       <!-- <i class="fal fa-road"></i> -->
+       <img src="img/machine.jpg" alt="">
+       <!-- <i class="fal fa-route-interstate"></i> -->
+       <div class="services-text">
+         <h4>Operational Excellence</h4>
+         <p>Execute more consistently and reliably than the competition.</p>
+         <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
+                </div>
+                </div>
+
+      </a>
+          </div>
+
+          <a href="service.php">  <div class="col-lg-4 col-md-4 ">
+             <div class="three-col wow fadeIn">
+
+     <!-- <i class="fal fa-road"></i> -->
+     <img src="img/highway-7.jpg" alt="">
+     <!-- <img src="img/advisor.jpg" alt=""> -->
+     <!-- <i class="fal fa-route-interstate"></i> -->
+     <div class="services-text">
+       <h4>Customer Experience</h4>
+       <p>They demand more personalization and you better deliver, every time. </p>
+       <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
+              </div>
+              </div>
+
+    </a>
+        </div>
+
+        <a href="service.php">  <div class="col-lg-4 col-md-4 ">
+           <div class="three-col wow fadeIn">
+
+   <!-- <i class="fal fa-road"></i> -->
+   <img src="img/ideal-state.jpg" alt="">
+   <!-- <i class="fal fa-route-interstate"></i> -->
+   <div class="services-text">
+     <h4>The Ideal State</h4>
+     <p>Ever evolving and maturing in the use of data to drive revenue.</p>
+     <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
+            </div>
             </div>
 
-           <a href="service.php"><div class="col-md-4">
-
-               <div class="three-col wow fadeIn" data-wow-delay="0.2s">
-                 <!-- <i class="fal fa-user-friends"></i> -->
-                  <i class="fal fa-handshake-alt"></i>
-                  <!-- <i class="fal fa-user-headset"></i> -->
-                  <!-- <i class="fal fa-users"></i> -->
-                  <!-- <i class="fal fa-hands-helping"></i> -->
-                  <h4>Customer Experience</h4>
-                  <p>They demand more personalization and you better deliver, every time. </p>
-                  <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
-               </div>
-   </a>
-            </div>
-
-             <a href="method.php"><div class="col-md-4">
-
-                 <div class="three-col wow fadeIn" data-wow-delay="0.4s">
-                  <!-- <i class="fal fa-mountain"></i> -->
-                  <i class="fal fa-mountains"></i>
-                  <h4>APEX</h4>
-                  <p>Ever evolving and maturing in the use of data to drive revenue.</p>
-                  <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
-
-               </div>
-                </a>
-
-            </div>
+  </a>
+      </div>
          </div>
+      </div>
       </div>
    </section>
 

@@ -2,7 +2,7 @@
    /**
     *
     *
-    * index.php
+    * insight.php
     * @author     Austin Curths
     * @created    5/15/2020
     * @copyright  Copyright (c)  groupr66 (https://groupr66.com)
@@ -13,7 +13,7 @@
    require_once('includes/config.php');
 
    // set page vars
-   $page_title = 'Insights - Group R66';
+   $page_title = 'Insight - Group R66';
 
    // pull in head
    require_once('includes/blocks/head.php');
@@ -39,7 +39,7 @@
             <ul class="menu">
                <li><a href="service.php">Service</a></li>
                <li><a href="method.php">Method</a></li>
-               <li class="active"><a href="insights.php">Insights</a></li>
+               <li class="active"><a style="cursor: default;">Insight</a></li>
                <li><a href="connect.php">Connect</a></li>
                <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
@@ -63,7 +63,7 @@
                <i class="fal fa-paper-plane"></i>
                </div> -->
             <div class="col-md-3 ">
-               <h6>Insights</h6>
+               <h6>Insight</h6>
             </div>
             <div class="col-md-9 right">
                <h2>Sharing our knowledge merged with <br>reputable industry experts <span>that we trust</span></h2>
@@ -76,16 +76,16 @@
             <div class="row ">
                <div class="col-md-7 text-left grey-bg" >
                   <div class="intro-left-alt">
-                     <h2>Making Digital<span></span>
+                     <h2>Make Digital Happen<span></span>
                      </h2>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare</p>
+                     <p>Enterprises of all size are recognizing the value of data and demonstrating this understanding by becoming more data-driven. They are proactively undertaking efforts to use data to make more informed decisions, improve operational efficiency, and enhance the customer experience. Let Group R66 guide you down the path with APEX.</p>
                   </div>
                </div>
                <div class="col-md-5 intro-right-alt padding-0 ">
                  <i class="fas fa-quote-left"></i>
                   <p> "Marketers reported that they are going to market via channel partners 74% of the time, up from 55.4% two years ago. That trend is likely a response to the market’s demand for speed.”
 
-                  <br><br><a href="#">- Forbes</a>
+                  <br><br><a href="https://www.forbes.com/sites/christinemoorman/2019/03/27/9-ways-marketers-are-driving-growth-in-2019/#3d16f2f47895" target="_blank">- Forbes</a>
                   </p>
                   <!-- <i class="fal fa-long-arrow-down"></i> -->
                </div>

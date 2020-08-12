@@ -2,7 +2,7 @@
    /**
     *
     *
-    * index.php
+    * method.php
     * @author     Austin Curths
     * @created    5/15/2020
     * @copyright  Copyright (c)  groupr66 (https://groupr66.com)
@@ -13,7 +13,7 @@
    require_once('includes/config.php');
 
    // set page vars
-   $page_title = 'method - Group R66';
+   $page_title = 'Method - Group R66';
 
    // pull in head
    require_once('includes/blocks/head.php');
@@ -21,7 +21,7 @@
    // require_once('includes/blocks/navigation.php');
 
    ?>
-<body>
+<body class="apex">
    <!-- Start  Loading Mask-->
    <div id="mask">
    </div>
@@ -38,10 +38,10 @@
             <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
             <ul class="menu">
                <li><a href="service.php">Service</a></li>
-               <li class="active-green"><a href="method.php">Method</a></li>
-               <li><a href="insights.php">Insights</a></li>
+               <li class="active"><a style="cursor: default;">Method</a></li>
+               <li><a href="insight.php">Insight</a></li>
                <li><a href="connect.php">Connect</a></li>
-               <li class="mailto ideal-x-header-i"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
+               <li class="mailto"><a href="mailto:info@groupr66.com"><i class=" fal fa-envelope"></i></a></li>
                <div class="social-menu">
                   <a href="https://www.facebook.com/groupr66/" target="_blank"><i class="fab fa-facebook-f "></i></a>
                   <a href="https://twitter.com/groupr66" target="_blank"><i class="fab fa-twitter "></i></a>
@@ -66,7 +66,7 @@
                  <div class="row">
 
                  <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 padding-0 text-left">
- <h6>Method</h6>
+ <h6 style="letter-spacing: 3px;">APEX</h6>
   <img src="img/mountain.jpg" alt="">
                  </div>
                   <div class="col-xl-8 col-lg-8 col-md-12 col-sm-12  padding-0">
@@ -78,7 +78,7 @@
                   <div class="col-xl-6 col-lg-4 col-md-12   padding-0">
                   </div>
                   <div class="col-xl-6 col-lg-8 col-md-12  padding-0 hero-right-text">
-                     <p style="">In this rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight and leadership alignment. IDEALX is a revenue-based framework designed to focus leaders around their drivers of revenue. The disruptive economic force of digital requires a new model. This is it.
+                     <p style="">In this rapidly evolving transformative age, accelerated change creates limitless opportunities, demanding customer insight and leadership alignment. <b style="font-weight: 800;">APEX</b> is a revenue-based framework designed to focus leaders around their drivers of revenue. The disruptive economic force of digital requires a new model. This is it.
                         <br><br>
                         <a href="connect.php">Optimize customer equity with data-driven action<i class="fas fa-long-arrow-right"></i></a>
                      </p>
@@ -92,7 +92,7 @@
 <source src="video/video-2.mp4" type="video/mp4">
 </video> -->
                <div class="col-md-12">
-                  <h3>Technology solution planning for marketing, sales, and operations.
+                  <h3>Change management planning for organizational owners, leaders, and decision-makers.
 </h3>
                   <p class="hero-text">Our team of trusted guides will maneuver around the turbulence of the constantly evolving digital highway to help you reach your destination.</p>
                   <br><br>
@@ -107,33 +107,37 @@
                <div class="col-md-12 text-center">
                   <div class="r66-white-bg ">
                      <h2 class="wow fadeIn">
-                        Organizational Machining Framework <span style="color: #2A73B8">(OMF)</span>
+                        Organizational Machining :<span style="color: #2A73B8"> APEX</span>
                      </h2>
-                     <p class="wow fadeIn">The Ideal State is a revenue-based framework that focuses and aligns organizational leadership around the drivers of revenue. The disruptive economic force of digital requires a new model. Optimize customer equity using data to drive your new machine.</p>
+                     <p class="wow fadeIn">APEX is a revenue-based framework that focuses and aligns organizational leadership around the drivers of revenue. The disruptive economic force of digital requires a new model. Optimize customer equity using data to drive your organizational machine.</p>
                   </div>
                </div>
+               <!-- <div class="col-md-12 text-center">
+                <img src="img/apex-best.jpg" alt="">
+               </div> -->
                <div class="col-md-4">
-                <a href="ideal-x-drivers.php">
+                <a href="apex-method.php">
                   <div class="three-col wow fadeIn" >
             <i class="fal fa-brain"></i>
+                      <!-- <i class="fal fa-mountains"></i> -->
                      <h4>Machine Learning</h4>
-                     <p>Drive effective transformation by building feedback into the organizational machine.</p>
+                     <p>Drive effective transformation by building robust feedback into the organizational machine.</p>
                      <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                   </div>
                   </a>
                </div>
                <div class="col-md-4">
-              <a href="ideal-x-process.php">
+              <a href="apex-method.php">
                   <div class="three-col wow fadeIn" data-wow-delay="0.2s">
-                     <i class="fal fa-repeat"></i>
+                  <i class="fal fa-sync"></i>
                      <h4>Repeatable Process</h4>
-                     <p>A customer-led strategy fused with high-impact data provides seamless execution. </p>
+                     <p>A customer-led strategy fused with high-impact data provides your project a seamless execution.</p>
                      <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                   </div>
                   </a>
                </div>
                <div class="col-md-4">
-                 <a href="#">
+                 <a href="apex-method.php">
                   <div class="three-col wow fadeIn" data-wow-delay="0.4s">
                      <i class="fal fa-seedling"></i>
                      <h4>Grow Your Business</h4>
@@ -153,7 +157,7 @@
                   <div class="intro-left-alt method wow fadeIn">
                      <h2>Acquire, Retain, Grow<span></span>
                      </h2>
-                     <p>The Ideal State drivers improve customer equity, reinforce operational effectiveness, enhance marketing metrics, and simplify technical deployments. Continuous evaluation, alignment, and advancement ensures the success of digital projects and increases quality of earnings.
+                     <p>APEX drivers improve customer equity, reinforce operational effectiveness, enhance marketing metrics, and simplify technical deployments. Continuous evaluation, alignment, and advancement ensures the success of digital projects and increases quality of earnings.
 </p>
                   </div>
                </div>
@@ -162,11 +166,11 @@
                   <p class="wow fadeIn">“17% of directors say their boards are sponsoring digital initiatives yet only 16% fully understand how industry dynamics affecting their companies are changing.”
                     <br>
                         <br>
-<a href="#">-McKinsey</a>
+<a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/adapting-your-board-to-the-digital-age" target="_blank">-McKinsey</a>
 
 
                      <br><br><br>
-                    <a class="btn-secondary alt wow fadeIn">Refine your playbook</a>
+                    <a class="btn-secondary alt wow fadeIn" href="connect.php">Refine your playbook</a>
                   </p>
                </div>
             </div>
@@ -176,5 +180,7 @@
       </section>
 
 
+            <?php require_once ('includes/blocks/blog-banner.php'); ?>
+            <?php require_once ('includes/blocks/contact-banner.php'); ?>
       <?php require_once ('includes/blocks/footer.php'); ?>
    </div>

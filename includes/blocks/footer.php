@@ -15,7 +15,6 @@
    <div class="container-fluid">
       <div class="row">
         <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 text-left">
-           <!-- <h5>Sitemap</h5> -->
            <img src="img/logoclear.png" class="logo-hide" alt="">
              <img src="img/logoclear-alt.png" alt="" class="logo-hide-alt">
         </div>
@@ -24,13 +23,11 @@
 
         </div>
          <div class="col-lg-2 col-md-2  col-sm-6 col-xs-6 text-left">
-            <!-- <img src="img/logo-dark.jpg" alt=""> -->
-
               <ul>
                  <li><a href="index.php"></i>Home</a></li>
                  <li><a href="service.php"></i>Service</a></li>
                  <li><a href="method.php"></i>Method</a></li>
-                 <li><a href="insights.php"></i>Insights</a></li>
+                 <li><a href="insight.php"></i>Insight</a></li>
                  <li><a href="connect.php"></i>Connnect</a></li>
               </ul>
          </div>
@@ -51,7 +48,7 @@
 
             </div>
             <div class="copyright">
-               <p>Copyright © 2020 groupr66. Registered trademarks in the united states and reserve the right to hack into your systems whenever, wherever.</p>
+               <p>Copyright &copy; <?php echo date("Y"); ?> GroupR66. Based in the Americas with registered trademarks in the United States.</p>
             </div>
          </div>
       </div>
@@ -71,5 +68,8 @@
 <script src="js/plugins.js"></script>
 <!-- JS file -->
 <script src="js/main.js"></script>
+
+
+  <script src="js/vendor/parallax-background.min.js"></script>
 </body>
 </html>
