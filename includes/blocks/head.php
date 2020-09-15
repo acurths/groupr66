@@ -59,5 +59,4 @@ $defaultOgData = array(
 
   <script src="https://cdn.jsdelivr.net/npm/paroller.js/dist/jquery.paroller.min.js"></script>
 
-  <script src="js/vendor/parallax-background.min.js"></script>
 </head>

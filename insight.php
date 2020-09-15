@@ -66,7 +66,7 @@
                <h6>Insight</h6>
             </div>
             <div class="col-md-9 right">
-               <h2>Sharing our knowledge merged with <br>reputable industry experts <span>that we trust</span></h2>
+               <h2>Merging our knowledge with reputable <br>industry experts <span>that we trust</span></h2>
             </div>
          </div>
       </section>

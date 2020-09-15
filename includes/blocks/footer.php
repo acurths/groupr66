@@ -68,6 +68,7 @@
 <script src="js/plugins.js"></script>
 <!-- JS file -->
 <script src="js/main.js"></script>
+<script src="js/vendor/Parallax.min.js"></script>
 
 
   <script src="js/vendor/parallax-background.min.js"></script>

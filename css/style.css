@@ -1,5 +1,12 @@
 
 /* ----- Boilerplate Elements ----- */
+.parallax-container {
+  position: relative;
+  overflow: hidden;
+}
+.parallax-container img {
+  position: absolute;
+}
 
 html {
 	color: #1d1d1d;
@@ -1486,17 +1493,17 @@ padding: 240px 0 160px 0;
 .method-hero-alt {
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.2)), url(../img/top-mountain.jpg);
+	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.2)), url(../img/apex-main.jpg);
 	background-size: cover;
 	background-color: #1d1d1d;
-		background-position: 50% 30%;
+		background-position: 50% 20%;
 	padding: 40px 0 200px 30px;
 	overflow: hidden;
 	background-attachment: fixed;
 }
 .method-hero-alt h3 {
 	font-size: 40px;
-	text-shadow: 0 0 !important
+
 }
 .intro-left-alt.method {
 	width: 100%;
@@ -1603,7 +1610,7 @@ color: #2A73B8;
 .subpage-section p,
 .subpage-section img.subpage-image {
 	/* text-align: justify; */
-	padding-right: 5%;
+	padding-right: 14%;
 
 }
 
@@ -1621,7 +1628,10 @@ color: #2A73B8;
 	margin-bottom: 0;
 }
 .process h4 {
-	font-size: 18px;
+	font-size: 16px;
+	    padding-left: 30px;
+			margin-bottom: 24px;
+			font-weight: 600;
 }
 .process span {
 	font-size: 20px;
@@ -1630,14 +1640,19 @@ color: #2A73B8;
 }
 .three-columns-icons-stacked {
 	max-width: 480px;
-    padding-left: 80px;
+	    margin-top: 52px;
+
+}
+.three-columns-icons-stacked span {
+	    margin-left: -27px;
+			    vertical-align: top;
 }
 .process {
-	    padding-top: 52px;
+	    padding-top: 18px;
 			padding-left: 0;
 }
 .ideal-x-sub span, .ideal-x-sub a {
-color: #2A73B8;
+    color: #2A73B8;
 }
 .subpage-section .row:last-child{
     margin-bottom: 0;
@@ -1846,17 +1861,19 @@ z-index: 2;
 }
 .sub-center h4 {
 	text-align: center;
-	    letter-spacing: 8px;
-	    font-size: 32px;
-	    font-weight: 700;
+	    font-size: 36px;
 			line-height: 130%;
+    line-height: 160%;
+    letter-spacing: .04em;
+    font-weight: 800;
 }
 .sub-center  p{
 	padding-right: 0;
-	    max-width: 755px;
+	    max-width: 675px;
 	    margin: 0 auto;
 	    text-align: center;
 }
+
 
 /* ------ Media Quieries ------ */
 
@@ -1938,6 +1955,25 @@ z-index: 2;
 /* Large devices (desktops, 992px and up) */
 
 @media (max-width: 992px) {
+	.sub-center p {
+    text-align: left;
+    margin-left: 0;
+}
+.sub-center h4 {
+    text-align: left;
+font-size: 24px;
+}
+.process:last-child {
+    padding-top: 0;
+    padding-left: 0;
+}
+.text-block br {
+	display: none;
+}
+.three-columns-icons-stacked {
+
+    margin-top: 72px;
+}
 	.services .row {
 		padding-left: 0 !important;
 		padding-right: 0 !important;
@@ -1980,7 +2016,7 @@ display: none;
 		    color: #FFFFFF;
 		    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.30);
 		    margin-top: 90px;
-		    max-width: 275px;
+		    max-width: 400px;
 		    font-family: Nunito Sans;
 		    font-style: normal;
 		    font-weight: 800;
@@ -2211,7 +2247,7 @@ display: inline;
     display: none;
 }
 	.subpage-section {
-		padding: 140px 0 120px 0;
+		padding: 140px 0 80px 0;
 }
 .subpage-section h6 i {
 

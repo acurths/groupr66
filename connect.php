@@ -66,7 +66,7 @@
                <h6>Connect</h6>
             </div>
             <div class="col-md-9 right">
-               <h2>Minimize risk with a proven framework<br> to deliver your <span>Ideal State</span></h2>
+               <h2>Pivot quickly with the APEX <br>framework to deliver your <span>ideal states</span></h2>
             </div>
          </div>
       </section>
