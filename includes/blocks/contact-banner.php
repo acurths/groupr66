@@ -1,4 +1,8 @@
-
+<?php
+   if (substr_count($_SERVER[‘HTTP_ACCEPT_ENCODING’], ‘gzip’))
+   ob_start(“ob_gzhandler”);
+   else ob_start();
+?>
 <?php
 /**
  *
@@ -28,8 +32,8 @@
           <a href="mailto:info@groupr66.com">
             <h6>info@groupr66.com</h6>
           </a>
-          <a href="tel:9375101047">
-            <h6>937.510.1047</h6>
+          <a href="tel:6162752632">
+            <h6>616.275.2632</h6>
           </a>
       </div>
     </div>

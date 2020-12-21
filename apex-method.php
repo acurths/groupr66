@@ -1,4 +1,9 @@
 <?php
+   if (substr_count($_SERVER[‘HTTP_ACCEPT_ENCODING’], ‘gzip’))
+   ob_start(“ob_gzhandler”);
+   else ob_start();
+?>
+<?php
    /**
     *
     *
@@ -128,15 +133,15 @@
                      <h4 class=""><span>2.</span> Intact leadership groups are key leverage points for change
                      </h4>
 
-                     <h4 class=""><span>3.</span> Requires collaborative relations with change agent (i.e. GR66)
+                     <h4 class=""><span>3.</span> Change requires collaborative relations with a change agent, like Group GR66
                      </h4>
 
-                     <h4 class=""><span>4.</span> Produces a playbook for maintaining long range, planned, sustained transformation efforts aligned with company strategies and vision
+                     <h4 class=""><span>4.</span> APEX produces a playbook for maintaining long range, planned, sustained transformation efforts aligned with company vision
                      </h4>
-                     <h4 class=""><span>5.</span> The company’s culture & processes are key strategic points for implementing change (I.e. Customer Experience Driven)
+                     <h4 class=""><span>5.</span> The company’s culture & processes are key strategic points for implementing change (I.e. Customer Experience)
                      </h4>
 
-                     <h4 class=""><span>6.</span> Augments organizational optics to be more data-driven and reflective
+                     <h4 class=""><span>6.</span> APEX augments organizational optics to be more data-driven and reflective
 
                      </h4>
 

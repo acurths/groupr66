@@ -1,4 +1,9 @@
 <?php
+   if (substr_count($_SERVER[‘HTTP_ACCEPT_ENCODING’], ‘gzip’))
+   ob_start(“ob_gzhandler”);
+   else ob_start();
+?>
+<?php
    /**
     *
     *
@@ -176,7 +181,7 @@
 
                <div class="services-text">
                            <h4>Repeatable Process</h4>
-                           <p>A customer-led strategy fused with high-impact data provides a foundation for seamless and repeatable delivery of the ideal experience.</p>
+                           <p style="max-width: 378px;">A customer-led strategy fused with high-impact data provides seamless and reliable execution.</p>
                            <p>Learn More<i class="fas fa-long-arrow-right"></i></p>
                         </div>
                         </div>

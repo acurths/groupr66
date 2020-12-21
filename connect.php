@@ -1,4 +1,9 @@
 <?php
+   if (substr_count($_SERVER[‘HTTP_ACCEPT_ENCODING’], ‘gzip’))
+   ob_start(“ob_gzhandler”);
+   else ob_start();
+?>
+<?php
    /**
     *
     *
@@ -66,7 +71,7 @@
                <h6>Connect</h6>
             </div>
             <div class="col-md-9 right">
-               <h2>Pivot quickly with the APEX <br>framework to deliver your <span>ideal states</span></h2>
+               <h2>Pivot quickly with the APEX <br>framework to deliver your <span>ideal state</span></h2>
             </div>
          </div>
       </section>

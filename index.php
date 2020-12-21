@@ -1,4 +1,9 @@
 <?php
+   if (substr_count($_SERVER[‘HTTP_ACCEPT_ENCODING’], ‘gzip’))
+   ob_start(“ob_gzhandler”);
+   else ob_start();
+?>
+<?php
    /**
     *
     *
@@ -26,6 +31,7 @@
    <header>
       <!-- Scroll to top button -->
       <a href="javascript:" id="return-to-top"><i class="fal fa-chevron-up"></i></a>
+      
       <!-- Start Navbar-->
       <div class="header transparent">
          <div class="header-inner">

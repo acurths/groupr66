@@ -1,4 +1,9 @@
 <?php
+   if (substr_count($_SERVER[‘HTTP_ACCEPT_ENCODING’], ‘gzip’))
+   ob_start(“ob_gzhandler”);
+   else ob_start();
+?>
+<?php
 /**
  *
  *
@@ -10,17 +15,10 @@
  */
 
 // prime our default og tag values
-$defaultOgData = array(
-    'title'         => $page_title . TITLE_SUFFIX,
-    'description'   => 'Group R66 is a purpose-built service group driven to help align clients around the elements of complex digital initiatives. ',
-    'url'           => BASE_URL . strtok($_SERVER["REQUEST_URI"],'?'),
-    'image'         => BASE_URL . 'img/logowide.png',
-    'image-secure'  => BASE_URL . 'img/logowide.png',
-    'image-width'   => 206,
-    'image-height'  => 260,
-);
+
 ?>
 <!DOCTYPE html>
+  <title><?php echo $page_title; ?></title>
 <html lang="en" dir="ltr">
 <head>
 

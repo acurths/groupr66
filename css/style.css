@@ -814,7 +814,7 @@ a:hover .three-col p i {
 .insights-bg.alt {
 	height: 500px;
 	width: 100%;
-	background-image: url(../img/coast-highway.jpg);
+	background-image: url(../img/turnaround.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: 50% 40%;
@@ -1493,7 +1493,7 @@ padding: 240px 0 160px 0;
 .method-hero-alt {
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.4), rgba(29, 29, 29, 0.2)), url(../img/apex-main.jpg);
+	background-image: linear-gradient(to bottom, rgba(29, 29, 29, 0.6), rgba(29, 29, 29, 0.4)), url(../img/mountaintop.jpg);
 	background-size: cover;
 	background-color: #1d1d1d;
 		background-position: 50% 20%;
